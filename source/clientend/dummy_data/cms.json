@@ -1,0 +1,13 @@
+{
+  "banners": [
+    { "id": "bn_001", "placement": "home_hero", "title": "Durga Puja Fest", "subtitle": "Up to 60% off festive fashion & gifts", "cta": "Shop the Fest", "href": "/campaigns/durga-puja-fest-2026", "hue": 25, "icon": "sparkles", "active": true, "sort": 1, "startAt": "2026-10-01T00:00:00.000Z", "endAt": "2026-10-15T23:59:59.000Z" },
+    { "id": "bn_002", "placement": "home_hero", "title": "Lunetbuz Verified", "subtitle": "100% genuine, exactly as shown. Or your money back.", "cta": "Shop Verified", "href": "/search?verified=1", "hue": 150, "icon": "badge-check", "active": true, "sort": 2, "startAt": null, "endAt": null },
+    { "id": "bn_003", "placement": "home_hero", "title": "11.11 Mega Sale is coming", "subtitle": "The biggest sale of the year starts 11 November", "cta": "Learn more", "href": "/campaigns/11-11-mega-sale-2026", "hue": 0, "icon": "zap", "active": true, "sort": 3, "startAt": null, "endAt": null },
+    { "id": "bn_004", "placement": "home_hero", "title": "Winter Fest", "subtitle": "Draft banner", "cta": "Shop", "href": "/campaigns/winter-fest-2026", "hue": 200, "icon": "snowflake", "active": false, "sort": 4, "startAt": "2026-12-10T00:00:00.000Z", "endAt": "2026-12-20T23:59:59.000Z" }
+  ],
+  "pages": [
+    { "id": "pg_001", "slug": "verified", "title": "What does Lunetbuz Verified mean?", "status": "published", "updatedAt": "2026-09-01T10:00:00.000Z" },
+    { "id": "pg_002", "slug": "return-policy", "title": "Return & Refund Policy", "status": "published", "updatedAt": "2026-08-01T10:00:00.000Z" },
+    { "id": "pg_003", "slug": "seller-faq", "title": "Seller FAQ", "status": "draft", "updatedAt": "2026-10-01T10:00:00.000Z" }
+  ]
+}

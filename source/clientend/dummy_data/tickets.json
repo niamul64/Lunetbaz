@@ -1,0 +1,31 @@
+[
+  {
+    "id": "t_001", "ticketNo": "TKT-20261008-001", "customerId": "u_202", "orderId": "o_1004", "channel": "phone", "category": "order_status", "priority": "normal", "status": "open",
+    "subject": "When will my order be confirmed?", "assigneeId": "u_010", "createdAt": "2026-10-09T09:00:00.000Z", "updatedAt": "2026-10-09T09:00:00.000Z",
+    "messages": [{ "from": "customer", "authorName": "Rahim Mia", "body": "I placed a COD order this morning. Will it ship today?", "at": "2026-10-09T09:00:00.000Z" }]
+  },
+  {
+    "id": "t_002", "ticketNo": "TKT-20261007-002", "customerId": "u_201", "orderId": "o_1002", "channel": "chat", "category": "delivery", "priority": "normal", "status": "pending_customer",
+    "subject": "Change delivery time", "assigneeId": "u_010", "createdAt": "2026-10-07T18:00:00.000Z", "updatedAt": "2026-10-08T10:00:00.000Z",
+    "messages": [
+      { "from": "customer", "authorName": "Ayesha Siddiqua", "body": "Can the courier deliver after 6pm?", "at": "2026-10-07T18:00:00.000Z" },
+      { "from": "agent", "authorName": "Mitu Rahman", "body": "We have informed Steadfast. Could you confirm an alternative phone number?", "at": "2026-10-08T10:00:00.000Z" }
+    ]
+  },
+  {
+    "id": "t_003", "ticketNo": "TKT-20261001-003", "customerId": "u_201", "orderId": "o_1006", "channel": "phone", "category": "authenticity", "priority": "high", "status": "escalated",
+    "subject": "Verified product seems fake", "assigneeId": "u_003", "createdAt": "2026-10-01T11:00:00.000Z", "updatedAt": "2026-10-02T09:00:00.000Z",
+    "messages": [
+      { "from": "customer", "authorName": "Ayesha Siddiqua", "body": "The Niacinamide serum I received (Verified) smells and feels different from the original.", "at": "2026-10-01T11:00:00.000Z" },
+      { "from": "agent", "authorName": "Mitu Rahman", "body": "Return approved and full refund initiated. The Verified badge is suspended and escalated to the verification team.", "at": "2026-10-02T09:00:00.000Z" }
+    ]
+  },
+  {
+    "id": "t_004", "ticketNo": "TKT-20260920-004", "customerId": "u_202", "orderId": null, "channel": "email", "category": "account", "priority": "low", "status": "resolved",
+    "subject": "Cannot receive OTP", "assigneeId": "u_010", "createdAt": "2026-09-20T11:00:00.000Z", "updatedAt": "2026-09-20T13:00:00.000Z",
+    "messages": [
+      { "from": "customer", "authorName": "Rahim Mia", "body": "OTP SMS is not arriving.", "at": "2026-09-20T11:00:00.000Z" },
+      { "from": "agent", "authorName": "Mitu Rahman", "body": "Issue with the operator's DND list. Fixed. Please try again.", "at": "2026-09-20T13:00:00.000Z" }
+    ]
+  }
+]

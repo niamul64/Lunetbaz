@@ -1,0 +1,28 @@
+{
+  "_comment": "Subset of Bangladesh administrative areas for checkout. Full dataset will come from GET /v1/locations.",
+  "divisions": [
+    { "name": "Dhaka", "districts": [
+      { "name": "Dhaka", "zone": "inside_dhaka", "areas": ["Dhanmondi", "Gulshan", "Mirpur", "Uttara", "Mohammadpur", "Banani", "Motijheel", "Old Dhaka", "Elephant Road"] },
+      { "name": "Gazipur", "zone": "dhaka_suburb", "areas": ["Tongi", "Gazipur Sadar", "Kaliakair"] },
+      { "name": "Narayanganj", "zone": "dhaka_suburb", "areas": ["Narayanganj Sadar", "Rupganj", "Fatullah"] }
+    ]},
+    { "name": "Chattogram", "districts": [
+      { "name": "Chattogram", "zone": "outside_dhaka", "areas": ["GEC Circle", "Agrabad", "Halishahar", "Nasirabad"] },
+      { "name": "Cox's Bazar", "zone": "outside_dhaka", "areas": ["Cox's Bazar Sadar", "Teknaf"] }
+    ]},
+    { "name": "Rajshahi", "districts": [
+      { "name": "Rajshahi", "zone": "outside_dhaka", "areas": ["Boalia", "Motihar"] },
+      { "name": "Bogura", "zone": "outside_dhaka", "areas": ["Satmatha", "Sherpur", "Shibganj"] }
+    ]},
+    { "name": "Khulna", "districts": [{ "name": "Khulna", "zone": "outside_dhaka", "areas": ["Sonadanga", "Khalishpur"] }] },
+    { "name": "Sylhet", "districts": [{ "name": "Sylhet", "zone": "outside_dhaka", "areas": ["Zindabazar", "Ambarkhana"] }] },
+    { "name": "Barishal", "districts": [{ "name": "Barishal", "zone": "outside_dhaka", "areas": ["Barishal Sadar"] }] },
+    { "name": "Rangpur", "districts": [{ "name": "Rangpur", "zone": "outside_dhaka", "areas": ["Rangpur Sadar"] }] },
+    { "name": "Mymensingh", "districts": [{ "name": "Mymensingh", "zone": "outside_dhaka", "areas": ["Mymensingh Sadar"] }] }
+  ],
+  "shippingZones": [
+    { "zone": "inside_dhaka", "label": "Inside Dhaka", "baseFee": 60, "perExtraKg": 15, "etaDays": "1-2" },
+    { "zone": "dhaka_suburb", "label": "Dhaka Suburbs", "baseFee": 90, "perExtraKg": 20, "etaDays": "2-3" },
+    { "zone": "outside_dhaka", "label": "Outside Dhaka", "baseFee": 120, "perExtraKg": 25, "etaDays": "3-5" }
+  ]
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "s_001", "slug": "techhaat", "name": "TechHaat", "ownerId": "u_101",
+    "logo": "ph://cpu/220", "banner": "ph://smartphone/220",
+    "description": "Authorized reseller of smartphones, laptops and accessories since 2018. Official warranty on every product.",
+    "status": "active", "tier": "mall",
+    "rating": 4.8, "positiveRatingPct": 96, "shipOnTimePct": 98, "responseRatePct": 95, "followers": 48210,
+    "location": { "division": "Dhaka", "district": "Dhaka", "area": "Elephant Road" },
+    "kyc": { "status": "approved", "nid": "1990XXXXXXXX101", "tradeLicense": "TRAD/DNCC/045123/2018", "tin": "XXXX-1234" },
+    "commissionRatePct": 6, "payout": { "method": "bank", "accountName": "TechHaat Ltd", "accountNo": "XXXX-XXXX-4521", "bank": "BRAC Bank" },
+    "strikes": 0, "joinedAt": "2026-03-05T09:00:00.000Z"
+  },
+  {
+    "id": "s_002", "slug": "deshi-fashion-house", "name": "Deshi Fashion House", "ownerId": "u_104",
+    "logo": "ph://shirt/330", "banner": "ph://sparkles/330",
+    "description": "Handloom sarees, panjabis and everyday wear made by artisans across Bangladesh.",
+    "status": "active", "tier": "standard",
+    "rating": 4.6, "positiveRatingPct": 92, "shipOnTimePct": 94, "responseRatePct": 90, "followers": 21530,
+    "location": { "division": "Dhaka", "district": "Narayanganj", "area": "Rupganj" },
+    "kyc": { "status": "approved", "nid": "1988XXXXXXXX104", "tradeLicense": "TRAD/NCC/022931/2020", "tin": null },
+    "commissionRatePct": 10, "payout": { "method": "bkash", "accountName": "Laila Begum", "accountNo": "01800000104", "bank": null },
+    "strikes": 0, "joinedAt": "2026-03-08T09:00:00.000Z"
+  },
+  {
+    "id": "s_003", "slug": "glow-beauty-bd", "name": "Glow Beauty BD", "ownerId": "u_105",
+    "logo": "ph://droplet/170", "banner": "ph://palette/350",
+    "description": "100% original skincare and makeup imported from Korea, Japan and the UK.",
+    "status": "active", "tier": "standard",
+    "rating": 4.7, "positiveRatingPct": 94, "shipOnTimePct": 91, "responseRatePct": 97, "followers": 35780,
+    "location": { "division": "Chattogram", "district": "Chattogram", "area": "GEC Circle" },
+    "kyc": { "status": "approved", "nid": "1992XXXXXXXX105", "tradeLicense": "TRAD/CCC/011245/2021", "tin": "XXXX-5678" },
+    "commissionRatePct": 12, "payout": { "method": "bank", "accountName": "Glow Beauty BD", "accountNo": "XXXX-XXXX-7788", "bank": "City Bank" },
+    "strikes": 1, "joinedAt": "2026-03-09T09:00:00.000Z"
+  },
+  {
+    "id": "s_004", "slug": "ghorbari", "name": "Ghorbari", "ownerId": "u_106",
+    "logo": "ph://sofa/35", "banner": "ph://lamp/45",
+    "description": "Kitchenware, decor and everything to make your home feel like home.",
+    "status": "active", "tier": "standard",
+    "rating": 4.4, "positiveRatingPct": 89, "shipOnTimePct": 88, "responseRatePct": 85, "followers": 9120,
+    "location": { "division": "Rajshahi", "district": "Bogura", "area": "Satmatha" },
+    "kyc": { "status": "approved", "nid": "1985XXXXXXXX106", "tradeLicense": "TRAD/BOG/003311/2019", "tin": null },
+    "commissionRatePct": 9, "payout": { "method": "nagad", "accountName": "Nazmul Huda", "accountNo": "01800000106", "bank": null },
+    "strikes": 0, "joinedAt": "2026-03-10T09:00:00.000Z"
+  },
+  {
+    "id": "s_005", "slug": "new-shop", "name": "Shopno Gadgets", "ownerId": "u_107",
+    "logo": "ph://headphones/260", "banner": "ph://headphones/260",
+    "description": "Budget gadgets and accessories.",
+    "status": "pending", "tier": "standard",
+    "rating": 0, "positiveRatingPct": 0, "shipOnTimePct": 0, "responseRatePct": 0, "followers": 0,
+    "location": { "division": "Khulna", "district": "Khulna", "area": "Sonadanga" },
+    "kyc": { "status": "submitted", "nid": "1999XXXXXXXX107", "tradeLicense": "TRAD/KCC/008812/2026", "tin": null },
+    "commissionRatePct": 10, "payout": { "method": "bkash", "accountName": "Pending Seller", "accountNo": "01800000107", "bank": null },
+    "strikes": 0, "joinedAt": "2026-09-28T09:00:00.000Z"
+  },
+  {
+    "id": "s_006", "slug": "rongdhonu-toys", "name": "Rongdhonu Toys", "ownerId": null,
+    "logo": "ph://baby/50", "banner": "ph://baby/50",
+    "description": "Educational toys for kids.",
+    "status": "suspended", "tier": "standard",
+    "rating": 3.1, "positiveRatingPct": 61, "shipOnTimePct": 70, "responseRatePct": 55, "followers": 1480,
+    "location": { "division": "Sylhet", "district": "Sylhet", "area": "Zindabazar" },
+    "kyc": { "status": "approved", "nid": "1990XXXXXXXX999", "tradeLicense": "TRAD/SCC/004410/2022", "tin": null },
+    "commissionRatePct": 10, "payout": { "method": "bkash", "accountName": "Rongdhonu Toys", "accountNo": "01800000999", "bank": null },
+    "strikes": 3, "joinedAt": "2026-04-02T09:00:00.000Z"
+  }
+]

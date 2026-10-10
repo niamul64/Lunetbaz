@@ -1,0 +1,111 @@
+{
+  "campaigns": [
+    {
+      "id": "cmp_001", "slug": "durga-puja-fest-2026", "name": "Durga Puja Fest", "type": "festival", "status": "live",
+      "banner": "ph://sparkles/25", "hue": 25, "tagline": "Up to 60% off on festive fashion & gifts",
+      "description": "Celebrate Puja with festive deals on sarees, panjabis, beauty and gifts from top shops.",
+      "registrationStart": "2026-09-10T00:00:00.000Z", "registrationEnd": "2026-09-28T23:59:59.000Z",
+      "startAt": "2026-10-05T00:00:00.000Z", "endAt": "2026-10-15T23:59:59.000Z",
+      "rules": { "minDiscountPct": 10, "minStock": 5, "maxProductsPerShop": 20, "categoryIds": [], "minShopRating": 4.0, "verifiedOnly": false },
+      "extraCommissionPct": 2, "voucherFundedBy": "platform", "createdBy": "u_004", "createdAt": "2026-09-01T09:00:00.000Z"
+    },
+    {
+      "id": "cmp_002", "slug": "11-11-mega-sale-2026", "name": "11.11 Mega Sale", "type": "mega", "status": "registration_open",
+      "banner": "ph://zap/0", "hue": 0, "tagline": "The biggest sale of the year",
+      "description": "Three days of the biggest discounts of the year across every category. Free delivery on orders above ৳999.",
+      "registrationStart": "2026-10-01T00:00:00.000Z", "registrationEnd": "2026-10-31T23:59:59.000Z",
+      "startAt": "2026-11-11T00:00:00.000Z", "endAt": "2026-11-13T23:59:59.000Z",
+      "rules": { "minDiscountPct": 15, "minStock": 10, "maxProductsPerShop": 50, "categoryIds": [], "minShopRating": 4.0, "verifiedOnly": false },
+      "extraCommissionPct": 3, "voucherFundedBy": "shared", "createdBy": "u_004", "createdAt": "2026-09-20T09:00:00.000Z"
+    },
+    {
+      "id": "cmp_003", "slug": "daily-flash-sale", "name": "Flash Sale", "type": "flash", "status": "live",
+      "banner": "ph://zap/45", "hue": 45, "tagline": "New deals every day. Limited stock!",
+      "description": "Deep discounts for a limited time with limited stock.",
+      "registrationStart": "2026-09-15T00:00:00.000Z", "registrationEnd": "2026-09-30T23:59:59.000Z",
+      "startAt": "2026-10-01T00:00:00.000Z", "endAt": "2026-10-31T23:59:59.000Z",
+      "rules": { "minDiscountPct": 25, "minStock": 20, "maxProductsPerShop": 5, "categoryIds": [], "minShopRating": 4.2, "verifiedOnly": false },
+      "extraCommissionPct": 0, "voucherFundedBy": "seller", "createdBy": "u_004", "createdAt": "2026-09-10T09:00:00.000Z"
+    },
+    {
+      "id": "cmp_004", "slug": "verified-week", "name": "Verified Week", "type": "special", "status": "scheduled",
+      "banner": "ph://badge-check/150", "hue": 150, "tagline": "100% genuine. Only Lunetbuz Verified products.",
+      "description": "A week celebrating products verified genuine by Lunetbuz, with exclusive discounts.",
+      "registrationStart": "2026-09-25T00:00:00.000Z", "registrationEnd": "2026-10-12T23:59:59.000Z",
+      "startAt": "2026-10-20T00:00:00.000Z", "endAt": "2026-10-26T23:59:59.000Z",
+      "rules": { "minDiscountPct": 8, "minStock": 5, "maxProductsPerShop": 30, "categoryIds": [], "minShopRating": 4.0, "verifiedOnly": true },
+      "extraCommissionPct": 0, "voucherFundedBy": "platform", "createdBy": "u_004", "createdAt": "2026-09-22T09:00:00.000Z"
+    },
+    {
+      "id": "cmp_005", "slug": "winter-fest-2026", "name": "Winter Fest", "type": "festival", "status": "draft",
+      "banner": "ph://snowflake/200", "hue": 200, "tagline": "Stay warm with hot deals",
+      "description": "Jackets, blankets, heaters and winter essentials.",
+      "registrationStart": "2026-11-20T00:00:00.000Z", "registrationEnd": "2026-12-05T23:59:59.000Z",
+      "startAt": "2026-12-10T00:00:00.000Z", "endAt": "2026-12-20T23:59:59.000Z",
+      "rules": { "minDiscountPct": 10, "minStock": 10, "maxProductsPerShop": 30, "categoryIds": ["c_fashion", "c_home"], "minShopRating": 3.8, "verifiedOnly": false },
+      "extraCommissionPct": 1, "voucherFundedBy": "platform", "createdBy": "u_004", "createdAt": "2026-10-05T09:00:00.000Z"
+    },
+    {
+      "id": "cmp_006", "slug": "pohela-boishakh-1433", "name": "Pohela Boishakh 1433", "type": "festival", "status": "settled",
+      "banner": "ph://sun/10", "hue": 10, "tagline": "Shubho Noboborsho!",
+      "description": "Bangla New Year fest.",
+      "registrationStart": "2026-03-20T00:00:00.000Z", "registrationEnd": "2026-04-05T23:59:59.000Z",
+      "startAt": "2026-04-10T00:00:00.000Z", "endAt": "2026-04-16T23:59:59.000Z",
+      "rules": { "minDiscountPct": 10, "minStock": 5, "maxProductsPerShop": 20, "categoryIds": [], "minShopRating": 4.0, "verifiedOnly": false },
+      "extraCommissionPct": 2, "voucherFundedBy": "platform", "createdBy": "u_004", "createdAt": "2026-03-10T09:00:00.000Z"
+    }
+  ],
+  "applications": [
+    {
+      "id": "ca_001", "campaignId": "cmp_001", "shopId": "s_002", "status": "approved", "submittedAt": "2026-09-15T09:00:00.000Z", "reviewedBy": "u_004", "reviewedAt": "2026-09-29T09:00:00.000Z",
+      "items": [
+        { "productId": "p_009", "variantId": "p_009_v1", "campaignPrice": 14900, "campaignStock": 6, "status": "approved", "rejectionReason": null },
+        { "productId": "p_010", "variantId": "p_010_v1", "campaignPrice": 1590, "campaignStock": 30, "status": "approved", "rejectionReason": null },
+        { "productId": "p_010", "variantId": "p_010_v2", "campaignPrice": 1590, "campaignStock": 25, "status": "approved", "rejectionReason": null },
+        { "productId": "p_011", "variantId": "p_011_v1", "campaignPrice": 2190, "campaignStock": 40, "status": "approved", "rejectionReason": null }
+      ]
+    },
+    {
+      "id": "ca_002", "campaignId": "cmp_001", "shopId": "s_003", "status": "partially_approved", "submittedAt": "2026-09-16T09:00:00.000Z", "reviewedBy": "u_004", "reviewedAt": "2026-09-29T10:00:00.000Z",
+      "items": [
+        { "productId": "p_013", "variantId": "p_013_v1", "campaignPrice": 1390, "campaignStock": 80, "status": "approved", "rejectionReason": null },
+        { "productId": "p_015", "variantId": "p_015_v1", "campaignPrice": 1150, "campaignStock": 20, "status": "rejected", "rejectionReason": "Discount is below the 10% minimum compared to the 30-day lowest price." }
+      ]
+    },
+    {
+      "id": "ca_003", "campaignId": "cmp_003", "shopId": "s_001", "status": "approved", "submittedAt": "2026-09-20T09:00:00.000Z", "reviewedBy": "u_004", "reviewedAt": "2026-09-30T10:00:00.000Z",
+      "items": [
+        { "productId": "p_006", "variantId": "p_006_v1", "campaignPrice": 1199, "campaignStock": 150, "status": "approved", "rejectionReason": null },
+        { "productId": "p_007", "variantId": "p_007_v1", "campaignPrice": 9990, "campaignStock": 20, "status": "approved", "rejectionReason": null }
+      ]
+    },
+    {
+      "id": "ca_004", "campaignId": "cmp_003", "shopId": "s_004", "status": "approved", "submittedAt": "2026-09-21T09:00:00.000Z", "reviewedBy": "u_004", "reviewedAt": "2026-09-30T11:00:00.000Z",
+      "items": [
+        { "productId": "p_022", "variantId": "p_022_v1", "campaignPrice": 690, "campaignStock": 50, "status": "approved", "rejectionReason": null },
+        { "productId": "p_017", "variantId": "p_017_v1", "campaignPrice": 1290, "campaignStock": 30, "status": "approved", "rejectionReason": null }
+      ]
+    },
+    {
+      "id": "ca_005", "campaignId": "cmp_002", "shopId": "s_001", "status": "pending", "submittedAt": "2026-10-04T09:00:00.000Z", "reviewedBy": null, "reviewedAt": null,
+      "items": [
+        { "productId": "p_001", "variantId": "p_001_v1", "campaignPrice": 44999, "campaignStock": 20, "status": "pending", "rejectionReason": null },
+        { "productId": "p_005", "variantId": "p_005_v1", "campaignPrice": 35499, "campaignStock": 10, "status": "pending", "rejectionReason": null },
+        { "productId": "p_006", "variantId": "p_006_v2", "campaignPrice": 1290, "campaignStock": 100, "status": "pending", "rejectionReason": null }
+      ]
+    },
+    {
+      "id": "ca_006", "campaignId": "cmp_002", "shopId": "s_003", "status": "pending", "submittedAt": "2026-10-06T09:00:00.000Z", "reviewedBy": null, "reviewedAt": null,
+      "items": [
+        { "productId": "p_013", "variantId": "p_013_v1", "campaignPrice": 1350, "campaignStock": 60, "status": "pending", "rejectionReason": null }
+      ]
+    },
+    {
+      "id": "ca_007", "campaignId": "cmp_004", "shopId": "s_001", "status": "approved", "submittedAt": "2026-09-28T09:00:00.000Z", "reviewedBy": "u_004", "reviewedAt": "2026-10-02T09:00:00.000Z",
+      "items": [
+        { "productId": "p_003", "variantId": "p_003_v1", "campaignPrice": 169999, "campaignStock": 4, "status": "approved", "rejectionReason": null },
+        { "productId": "p_023", "variantId": "p_023_v1", "campaignPrice": 4490, "campaignStock": 10, "status": "approved", "rejectionReason": null }
+      ]
+    }
+  ]
+}

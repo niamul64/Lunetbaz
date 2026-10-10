@@ -1,0 +1,17 @@
+{
+  "addresses": [
+    { "id": "a_001", "userId": "u_201", "label": "Home", "name": "Ayesha Siddiqua", "phone": "01900000201", "division": "Dhaka", "district": "Dhaka", "area": "Dhanmondi", "line": "House 12, Road 7A", "isDefault": true },
+    { "id": "a_002", "userId": "u_201", "label": "Parents", "name": "Ayesha Siddiqua", "phone": "01900000201", "division": "Dhaka", "district": "Dhaka", "area": "Mirpur", "line": "Section 10, Block C", "isDefault": false },
+    { "id": "a_003", "userId": "u_202", "label": "Home", "name": "Rahim Mia", "phone": "01900000202", "division": "Rajshahi", "district": "Bogura", "area": "Sherpur", "line": "Village Mirzapur", "isDefault": true },
+    { "id": "a_004", "userId": "u_202", "label": "Office", "name": "Rahim Mia", "phone": "01900000202", "division": "Dhaka", "district": "Gazipur", "area": "Tongi", "line": "Plot 22, BSCIC", "isDefault": false }
+  ],
+  "wishlists": [
+    { "userId": "u_201", "productIds": ["p_003", "p_005", "p_016"] },
+    { "userId": "u_202", "productIds": ["p_001"] }
+  ],
+  "riskProfiles": [
+    { "userId": "u_201", "codSuccessRatePct": 100, "totalOrders": 14, "returns": 1, "flag": "trusted" },
+    { "userId": "u_202", "codSuccessRatePct": 88, "totalOrders": 9, "returns": 0, "flag": "normal" },
+    { "userId": "u_203", "codSuccessRatePct": 20, "totalOrders": 10, "returns": 0, "flag": "blocked" }
+  ]
+}

@@ -1,0 +1,6 @@
+[
+  { "id": "v_001", "code": "PUJA500", "title": "৳500 off on ৳5,000+", "type": "fixed", "value": 500, "minSpend": 5000, "maxDiscount": null, "fundedBy": "platform", "shopId": null, "startAt": "2026-10-01T00:00:00.000Z", "endAt": "2026-10-15T23:59:59.000Z", "usageLimit": 10000, "used": 3412, "active": true },
+  { "id": "v_002", "code": "NEW100", "title": "৳100 off your first order", "type": "fixed", "value": 100, "minSpend": 500, "maxDiscount": null, "fundedBy": "platform", "shopId": null, "startAt": "2026-01-01T00:00:00.000Z", "endAt": "2026-12-31T23:59:59.000Z", "usageLimit": null, "used": 21890, "active": true },
+  { "id": "v_003", "code": "TECH5", "title": "5% off TechHaat (max ৳2,000)", "type": "percent", "value": 5, "minSpend": 10000, "maxDiscount": 2000, "fundedBy": "seller", "shopId": "s_001", "startAt": "2026-10-01T00:00:00.000Z", "endAt": "2026-10-31T23:59:59.000Z", "usageLimit": 500, "used": 122, "active": true },
+  { "id": "v_004", "code": "BOISHAKH", "title": "Expired", "type": "percent", "value": 10, "minSpend": 1000, "maxDiscount": 300, "fundedBy": "platform", "shopId": null, "startAt": "2026-04-10T00:00:00.000Z", "endAt": "2026-04-16T23:59:59.000Z", "usageLimit": 5000, "used": 5000, "active": false }
+]

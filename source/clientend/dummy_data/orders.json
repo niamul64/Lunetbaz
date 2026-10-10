@@ -1,0 +1,168 @@
+[
+  {
+    "id": "o_1001", "orderNo": "LB-260930-1001", "customerId": "u_201", "createdAt": "2026-09-30T14:20:00.000Z", "status": "delivered",
+    "payment": { "method": "bkash", "status": "paid", "transactionId": "BK9XA2Q1Z7" },
+    "shippingAddress": { "name": "Ayesha Siddiqua", "phone": "01900000201", "division": "Dhaka", "district": "Dhaka", "area": "Dhanmondi", "line": "House 12, Road 7A" },
+    "totals": { "subtotal": 51649, "shippingFee": 60, "discount": 500, "total": 51209 }, "voucherCode": "PUJA500",
+    "packages": [
+      {
+        "id": "pk_1001_1", "shopId": "s_001", "status": "delivered", "courier": "Pathao", "trackingNo": "PTH-88213421", "shippingFee": 0,
+        "items": [{ "productId": "p_001", "variantId": "p_001_v1", "name": "Samsung Galaxy A56 5G (8GB/256GB) – Official", "image": "ph://smartphone/220", "attributes": { "Color": "Awesome Graphite" }, "unitPrice": 49999, "qty": 1 }],
+        "timeline": [
+          { "status": "pending", "at": "2026-09-30T14:20:00.000Z", "note": "Order placed" },
+          { "status": "confirmed", "at": "2026-09-30T14:22:00.000Z", "note": "Payment received via bKash" },
+          { "status": "packed", "at": "2026-10-01T10:00:00.000Z", "note": null },
+          { "status": "shipped", "at": "2026-10-01T16:00:00.000Z", "note": "Handed over to Pathao" },
+          { "status": "delivered", "at": "2026-10-02T13:10:00.000Z", "note": null }
+        ]
+      },
+      {
+        "id": "pk_1001_2", "shopId": "s_003", "status": "delivered", "courier": "RedX", "trackingNo": "RDX-3321009", "shippingFee": 60,
+        "items": [{ "productId": "p_013", "variantId": "p_013_v1", "name": "COSRX Advanced Snail 96 Mucin Power Essence 100ml", "image": "ph://droplet/170", "attributes": { "Size": "100ml" }, "unitPrice": 1650, "qty": 1 }],
+        "timeline": [
+          { "status": "pending", "at": "2026-09-30T14:20:00.000Z", "note": "Order placed" },
+          { "status": "confirmed", "at": "2026-09-30T14:22:00.000Z", "note": null },
+          { "status": "packed", "at": "2026-10-01T12:00:00.000Z", "note": null },
+          { "status": "shipped", "at": "2026-10-02T09:00:00.000Z", "note": "Handed over to RedX" },
+          { "status": "delivered", "at": "2026-10-04T15:40:00.000Z", "note": null }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "o_1002", "orderNo": "LB-261006-1002", "customerId": "u_201", "createdAt": "2026-10-06T10:05:00.000Z", "status": "shipped",
+    "payment": { "method": "cod", "status": "pending", "transactionId": null },
+    "shippingAddress": { "name": "Ayesha Siddiqua", "phone": "01900000201", "division": "Dhaka", "district": "Dhaka", "area": "Dhanmondi", "line": "House 12, Road 7A" },
+    "totals": { "subtotal": 16490, "shippingFee": 60, "discount": 0, "total": 16550 }, "voucherCode": null,
+    "packages": [
+      {
+        "id": "pk_1002_1", "shopId": "s_002", "status": "shipped", "courier": "Steadfast", "trackingNo": "SF-5590213", "shippingFee": 60,
+        "items": [
+          { "productId": "p_009", "variantId": "p_009_v1", "name": "Handloom Dhakai Jamdani Saree – Red & Gold", "image": "ph://sparkles/350", "attributes": { "Color": "Red & Gold" }, "unitPrice": 14900, "qty": 1 },
+          { "productId": "p_010", "variantId": "p_010_v1", "name": "Premium Cotton Panjabi for Men", "image": "ph://shirt/200", "attributes": { "Color": "Off-white", "Size": "M" }, "unitPrice": 1590, "qty": 1 }
+        ],
+        "timeline": [
+          { "status": "pending", "at": "2026-10-06T10:05:00.000Z", "note": "Order placed (Cash on Delivery)" },
+          { "status": "confirmed", "at": "2026-10-06T10:30:00.000Z", "note": "Confirmed by phone" },
+          { "status": "packed", "at": "2026-10-07T11:00:00.000Z", "note": null },
+          { "status": "shipped", "at": "2026-10-07T17:30:00.000Z", "note": "Handed over to Steadfast" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "o_1003", "orderNo": "LB-261008-1003", "customerId": "u_201", "createdAt": "2026-10-08T21:45:00.000Z", "status": "processing",
+    "payment": { "method": "card", "status": "paid", "transactionId": "SSLCZ-77812301" },
+    "shippingAddress": { "name": "Ayesha Siddiqua", "phone": "01900000201", "division": "Dhaka", "district": "Dhaka", "area": "Dhanmondi", "line": "House 12, Road 7A" },
+    "totals": { "subtotal": 43198, "shippingFee": 0, "discount": 0, "total": 43198 }, "voucherCode": null,
+    "packages": [
+      {
+        "id": "pk_1003_1", "shopId": "s_001", "status": "packed", "courier": null, "trackingNo": null, "shippingFee": 0,
+        "items": [
+          { "productId": "p_005", "variantId": "p_005_v1", "name": "Sony WH-1000XM6 Wireless Noise Cancelling Headphones", "image": "ph://headphones/260", "attributes": { "Color": "Black" }, "unitPrice": 41999, "qty": 1 },
+          { "productId": "p_006", "variantId": "p_006_v1", "name": "QCY T13 ANC True Wireless Earbuds", "image": "ph://headphones/170", "attributes": { "Color": "Black" }, "unitPrice": 1199, "qty": 1 }
+        ],
+        "timeline": [
+          { "status": "pending", "at": "2026-10-08T21:45:00.000Z", "note": "Order placed" },
+          { "status": "confirmed", "at": "2026-10-08T21:46:00.000Z", "note": "Card payment received" },
+          { "status": "packed", "at": "2026-10-09T10:15:00.000Z", "note": null }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "o_1004", "orderNo": "LB-261009-1004", "customerId": "u_202", "createdAt": "2026-10-09T08:10:00.000Z", "status": "pending",
+    "payment": { "method": "cod", "status": "pending", "transactionId": null },
+    "shippingAddress": { "name": "Rahim Mia", "phone": "01900000202", "division": "Rajshahi", "district": "Bogura", "area": "Sherpur", "line": "Village Mirzapur" },
+    "totals": { "subtotal": 4920, "shippingFee": 240, "discount": 0, "total": 5160 }, "voucherCode": null,
+    "packages": [
+      {
+        "id": "pk_1004_1", "shopId": "s_004", "status": "pending", "courier": null, "trackingNo": null, "shippingFee": 120,
+        "items": [
+          { "productId": "p_017", "variantId": "p_017_v1", "name": "Granite Non-Stick Fry Pan 28cm with Lid", "image": "ph://cooking-pot/15", "attributes": { "Size": "28cm" }, "unitPrice": 1290, "qty": 1 },
+          { "productId": "p_021", "variantId": "p_021_v1", "name": "Chinigura Aromatic Rice 5kg", "image": "ph://shopping-basket/120", "attributes": { "Weight": "5kg" }, "unitPrice": 790, "qty": 2 }
+        ],
+        "timeline": [{ "status": "pending", "at": "2026-10-09T08:10:00.000Z", "note": "Order placed (Cash on Delivery)" }]
+      },
+      {
+        "id": "pk_1004_2", "shopId": "s_002", "status": "pending", "courier": null, "trackingNo": null, "shippingFee": 120,
+        "items": [{ "productId": "p_024", "variantId": "p_024_v1", "name": "Himu Samagra – Humayun Ahmed (Hardcover)", "image": "ph://book-open/280", "attributes": { "Format": "Hardcover" }, "unitPrice": 1125, "qty": 1 },
+                  { "productId": "p_022", "variantId": "p_022_v1", "name": "Anti-Slip Yoga Mat 6mm with Strap", "image": "ph://dumbbell/145", "attributes": { "Color": "Purple" }, "unitPrice": 925, "qty": 1 }],
+        "timeline": [{ "status": "pending", "at": "2026-10-09T08:10:00.000Z", "note": "Order placed (Cash on Delivery)" }]
+      }
+    ]
+  },
+  {
+    "id": "o_1005", "orderNo": "LB-261002-1005", "customerId": "u_202", "createdAt": "2026-10-02T19:00:00.000Z", "status": "cancelled",
+    "payment": { "method": "nagad", "status": "refunded", "transactionId": "NG-118273" },
+    "shippingAddress": { "name": "Rahim Mia", "phone": "01900000202", "division": "Rajshahi", "district": "Bogura", "area": "Sherpur", "line": "Village Mirzapur" },
+    "totals": { "subtotal": 4290, "shippingFee": 120, "discount": 0, "total": 4410 }, "voucherCode": null,
+    "packages": [
+      {
+        "id": "pk_1005_1", "shopId": "s_001", "status": "cancelled", "courier": null, "trackingNo": null, "shippingFee": 120,
+        "items": [{ "productId": "p_008", "variantId": "p_008_v1", "name": "Anker PowerCore 20000mAh 30W Power Bank", "image": "ph://battery-charging/120", "attributes": { "Color": "Black" }, "unitPrice": 4290, "qty": 1 }],
+        "timeline": [
+          { "status": "pending", "at": "2026-10-02T19:00:00.000Z", "note": "Order placed" },
+          { "status": "confirmed", "at": "2026-10-02T19:01:00.000Z", "note": "Paid via Nagad" },
+          { "status": "cancelled", "at": "2026-10-03T10:00:00.000Z", "note": "Seller cancelled: out of stock. Refund issued." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "o_1006", "orderNo": "LB-260925-1006", "customerId": "u_201", "createdAt": "2026-09-25T12:00:00.000Z", "status": "returned",
+    "payment": { "method": "bkash", "status": "refunded", "transactionId": "BK7MM22P10" },
+    "shippingAddress": { "name": "Ayesha Siddiqua", "phone": "01900000201", "division": "Dhaka", "district": "Dhaka", "area": "Dhanmondi", "line": "House 12, Road 7A" },
+    "totals": { "subtotal": 1290, "shippingFee": 60, "discount": 0, "total": 1350 }, "voucherCode": null,
+    "packages": [
+      {
+        "id": "pk_1006_1", "shopId": "s_003", "status": "returned", "courier": "RedX", "trackingNo": "RDX-3300112", "shippingFee": 60,
+        "items": [{ "productId": "p_014", "variantId": "p_014_v1", "name": "The Ordinary Niacinamide 10% + Zinc 1% 30ml", "image": "ph://droplet/40", "attributes": { "Size": "30ml" }, "unitPrice": 1290, "qty": 1 }],
+        "timeline": [
+          { "status": "pending", "at": "2026-09-25T12:00:00.000Z", "note": "Order placed" },
+          { "status": "confirmed", "at": "2026-09-25T12:01:00.000Z", "note": null },
+          { "status": "shipped", "at": "2026-09-26T15:00:00.000Z", "note": null },
+          { "status": "delivered", "at": "2026-09-28T13:00:00.000Z", "note": null },
+          { "status": "returned", "at": "2026-10-03T13:00:00.000Z", "note": "Return accepted: suspected not genuine. Full refund." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "o_1007", "orderNo": "LB-261007-1007", "customerId": "u_202", "createdAt": "2026-10-07T09:30:00.000Z", "status": "confirmed",
+    "payment": { "method": "bkash", "status": "paid", "transactionId": "BK1ZZ8812A" },
+    "shippingAddress": { "name": "Rahim Mia", "phone": "01900000202", "division": "Dhaka", "district": "Gazipur", "area": "Tongi", "line": "Office: Plot 22, BSCIC" },
+    "totals": { "subtotal": 13499, "shippingFee": 0, "discount": 0, "total": 13499 }, "voucherCode": null,
+    "packages": [
+      {
+        "id": "pk_1007_1", "shopId": "s_001", "status": "confirmed", "courier": null, "trackingNo": null, "shippingFee": 0,
+        "items": [{ "productId": "p_007", "variantId": "p_007_v1", "name": "Amazfit GTS 5 Smart Watch AMOLED", "image": "ph://watch/190", "attributes": { "Color": "Black" }, "unitPrice": 13499, "qty": 1 }],
+        "timeline": [
+          { "status": "pending", "at": "2026-10-07T09:30:00.000Z", "note": "Order placed" },
+          { "status": "confirmed", "at": "2026-10-07T09:31:00.000Z", "note": "Paid via bKash" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "o_1008", "orderNo": "LB-261005-1008", "customerId": "u_201", "createdAt": "2026-10-05T17:15:00.000Z", "status": "ready_to_ship",
+    "payment": { "method": "cod", "status": "pending", "transactionId": null },
+    "shippingAddress": { "name": "Ayesha Siddiqua", "phone": "01900000201", "division": "Dhaka", "district": "Dhaka", "area": "Mirpur", "line": "Parents' home: Section 10, Block C" },
+    "totals": { "subtotal": 5040, "shippingFee": 60, "discount": 0, "total": 5100 }, "voucherCode": null,
+    "packages": [
+      {
+        "id": "pk_1008_1", "shopId": "s_004", "status": "ready_to_ship", "courier": "Pathao", "trackingNo": "PTH-88290011", "shippingFee": 60,
+        "items": [
+          { "productId": "p_018", "variantId": "p_018_v1", "name": "Miyako Rice Cooker 2.8L", "image": "ph://cooking-pot/0", "attributes": { "Color": "White" }, "unitPrice": 3290, "qty": 1 },
+          { "productId": "p_019", "variantId": "p_019_v1", "name": "Nakshi Kantha Cushion Cover (Set of 5)", "image": "ph://lamp/45", "attributes": { "Color": "Multicolor" }, "unitPrice": 1750, "qty": 1 }
+        ],
+        "timeline": [
+          { "status": "pending", "at": "2026-10-05T17:15:00.000Z", "note": "Order placed (Cash on Delivery)" },
+          { "status": "confirmed", "at": "2026-10-05T18:00:00.000Z", "note": null },
+          { "status": "packed", "at": "2026-10-06T10:00:00.000Z", "note": null },
+          { "status": "ready_to_ship", "at": "2026-10-06T12:00:00.000Z", "note": "Awaiting Pathao pickup" }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+[
+  { "id": "al_001", "actorId": "u_006", "action": "verification.approved", "entityType": "product", "entityId": "p_023", "summary": "Granted Verified badge to LEGO Classic Medium Creative Brick Box", "ip": "103.112.10.4", "at": "2026-09-01T10:00:00.000Z" },
+  { "id": "al_002", "actorId": "u_004", "action": "campaign.application.approved", "entityType": "campaign_application", "entityId": "ca_001", "summary": "Approved Deshi Fashion House for Durga Puja Fest (4 items)", "ip": "103.112.10.8", "at": "2026-09-29T09:00:00.000Z" },
+  { "id": "al_003", "actorId": "u_008", "action": "payout.paid", "entityType": "payout", "entityId": "po_001", "summary": "Marked payout po_001 (৳385,950) as paid", "ip": "103.112.10.9", "at": "2026-10-01T10:00:00.000Z" },
+  { "id": "al_004", "actorId": "u_010", "action": "verification.suspended", "entityType": "product", "entityId": "p_014", "summary": "Suspended Verified badge after authenticity complaint t_003", "ip": "103.112.10.21", "at": "2026-10-02T09:00:00.000Z" },
+  { "id": "al_005", "actorId": "u_002", "action": "shop.suspended", "entityType": "shop", "entityId": "s_006", "summary": "Suspended Rongdhonu Toys (3 strikes)", "ip": "103.112.10.2", "at": "2026-10-03T12:00:00.000Z" },
+  { "id": "al_006", "actorId": "u_007", "action": "product.rejected", "entityType": "product", "entityId": "p_020", "summary": "Rejected Floating Wooden Wall Shelf: images not of actual product", "ip": "103.112.10.15", "at": "2026-10-03T14:00:00.000Z" },
+  { "id": "al_007", "actorId": "u_001", "action": "role.updated", "entityType": "role", "entityId": "campaign_manager", "summary": "Added campaigns.review permission to Campaign Manager", "ip": "103.112.10.1", "at": "2026-09-05T08:00:00.000Z" }
+]

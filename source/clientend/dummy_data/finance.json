@@ -1,0 +1,29 @@
+{
+  "payouts": [
+    { "id": "po_001", "shopId": "s_001", "periodStart": "2026-09-22", "periodEnd": "2026-09-28", "grossSales": 412500, "commission": 24750, "campaignFees": 0, "shippingFees": 1800, "refunds": 0, "netAmount": 385950, "status": "paid", "method": "bank", "reference": "BRAC-TRX-778812", "approvedBy": "u_008", "paidAt": "2026-10-01T10:00:00.000Z" },
+    { "id": "po_002", "shopId": "s_001", "periodStart": "2026-09-29", "periodEnd": "2026-10-05", "grossSales": 538200, "commission": 32292, "campaignFees": 1200, "shippingFees": 2100, "refunds": 4290, "netAmount": 498318, "status": "pending_approval", "method": "bank", "reference": null, "approvedBy": null, "paidAt": null },
+    { "id": "po_003", "shopId": "s_002", "periodStart": "2026-09-29", "periodEnd": "2026-10-05", "grossSales": 96400, "commission": 9640, "campaignFees": 1928, "shippingFees": 900, "refunds": 0, "netAmount": 83932, "status": "pending_approval", "method": "bkash", "reference": null, "approvedBy": null, "paidAt": null },
+    { "id": "po_004", "shopId": "s_003", "periodStart": "2026-09-29", "periodEnd": "2026-10-05", "grossSales": 71200, "commission": 8544, "campaignFees": 1424, "shippingFees": 1200, "refunds": 1290, "netAmount": 58742, "status": "on_hold", "method": "bank", "reference": null, "approvedBy": null, "paidAt": null, "holdReason": "Verified-product authenticity investigation (t_003)." },
+    { "id": "po_005", "shopId": "s_004", "periodStart": "2026-09-22", "periodEnd": "2026-09-28", "grossSales": 38900, "commission": 3501, "campaignFees": 0, "shippingFees": 600, "refunds": 0, "netAmount": 34799, "status": "paid", "method": "nagad", "reference": "NG-PAY-11002", "approvedBy": "u_008", "paidAt": "2026-10-01T11:00:00.000Z" }
+  ],
+  "salesSeries": {
+    "platform": [
+      { "date": "2026-10-03", "gmv": 1820000, "orders": 812 },
+      { "date": "2026-10-04", "gmv": 1950000, "orders": 860 },
+      { "date": "2026-10-05", "gmv": 2640000, "orders": 1190 },
+      { "date": "2026-10-06", "gmv": 2810000, "orders": 1255 },
+      { "date": "2026-10-07", "gmv": 2560000, "orders": 1102 },
+      { "date": "2026-10-08", "gmv": 2990000, "orders": 1320 },
+      { "date": "2026-10-09", "gmv": 1240000, "orders": 540 }
+    ],
+    "s_001": [
+      { "date": "2026-10-03", "gmv": 61000, "orders": 14 },
+      { "date": "2026-10-04", "gmv": 72000, "orders": 17 },
+      { "date": "2026-10-05", "gmv": 98000, "orders": 25 },
+      { "date": "2026-10-06", "gmv": 84000, "orders": 21 },
+      { "date": "2026-10-07", "gmv": 91000, "orders": 23 },
+      { "date": "2026-10-08", "gmv": 112000, "orders": 28 },
+      { "date": "2026-10-09", "gmv": 43000, "orders": 9 }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+[
+  { "id": "c_elec", "slug": "electronics", "name": "Electronics", "nameBn": "ইলেকট্রনিক্স", "icon": "smartphone", "hue": 220, "parentId": null, "sort": 1 },
+  { "id": "c_mobiles", "slug": "mobiles", "name": "Mobiles", "nameBn": "মোবাইল", "icon": "smartphone", "hue": 220, "parentId": "c_elec", "sort": 1 },
+  { "id": "c_laptops", "slug": "laptops", "name": "Laptops", "nameBn": "ল্যাপটপ", "icon": "laptop", "hue": 210, "parentId": "c_elec", "sort": 2 },
+  { "id": "c_audio", "slug": "audio", "name": "Audio", "nameBn": "অডিও", "icon": "headphones", "hue": 260, "parentId": "c_elec", "sort": 3 },
+  { "id": "c_watches", "slug": "smart-watches", "name": "Smart Watches", "nameBn": "স্মার্ট ঘড়ি", "icon": "watch", "hue": 190, "parentId": "c_elec", "sort": 4 },
+
+  { "id": "c_fashion", "slug": "fashion", "name": "Fashion", "nameBn": "ফ্যাশন", "icon": "shirt", "hue": 330, "parentId": null, "sort": 2 },
+  { "id": "c_men", "slug": "mens-clothing", "name": "Men's Clothing", "nameBn": "ছেলেদের পোশাক", "icon": "shirt", "hue": 200, "parentId": "c_fashion", "sort": 1 },
+  { "id": "c_women", "slug": "womens-clothing", "name": "Women's Clothing", "nameBn": "মেয়েদের পোশাক", "icon": "sparkles", "hue": 330, "parentId": "c_fashion", "sort": 2 },
+  { "id": "c_shoes", "slug": "shoes", "name": "Shoes", "nameBn": "জুতা", "icon": "footprints", "hue": 25, "parentId": "c_fashion", "sort": 3 },
+
+  { "id": "c_beauty", "slug": "health-beauty", "name": "Health & Beauty", "nameBn": "স্বাস্থ্য ও সৌন্দর্য", "icon": "heart", "hue": 345, "parentId": null, "sort": 3 },
+  { "id": "c_skincare", "slug": "skincare", "name": "Skincare", "nameBn": "স্কিনকেয়ার", "icon": "droplet", "hue": 170, "parentId": "c_beauty", "sort": 1 },
+  { "id": "c_makeup", "slug": "makeup", "name": "Makeup", "nameBn": "মেকআপ", "icon": "palette", "hue": 350, "parentId": "c_beauty", "sort": 2 },
+
+  { "id": "c_home", "slug": "home-living", "name": "Home & Living", "nameBn": "ঘর ও জীবনযাপন", "icon": "sofa", "hue": 35, "parentId": null, "sort": 4 },
+  { "id": "c_kitchen", "slug": "kitchen", "name": "Kitchen & Dining", "nameBn": "রান্নাঘর", "icon": "cooking-pot", "hue": 15, "parentId": "c_home", "sort": 1 },
+  { "id": "c_decor", "slug": "home-decor", "name": "Home Decor", "nameBn": "ঘর সাজানো", "icon": "lamp", "hue": 45, "parentId": "c_home", "sort": 2 },
+
+  { "id": "c_grocery", "slug": "groceries", "name": "Groceries", "nameBn": "মুদি", "icon": "shopping-basket", "hue": 120, "parentId": null, "sort": 5 },
+  { "id": "c_sports", "slug": "sports-outdoor", "name": "Sports & Outdoor", "nameBn": "খেলাধুলা", "icon": "dumbbell", "hue": 145, "parentId": null, "sort": 6 },
+  { "id": "c_toys", "slug": "babies-toys", "name": "Babies & Toys", "nameBn": "শিশু ও খেলনা", "icon": "baby", "hue": 50, "parentId": null, "sort": 7 },
+  { "id": "c_books", "slug": "books-stationery", "name": "Books & Stationery", "nameBn": "বই ও স্টেশনারি", "icon": "book-open", "hue": 280, "parentId": null, "sort": 8 }
+]
