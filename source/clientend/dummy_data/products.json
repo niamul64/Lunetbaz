@@ -1,7 +1,7 @@
 [
   {
     "id": "p_001", "slug": "samsung-galaxy-a56-5g", "name": "Samsung Galaxy A56 5G (8GB/256GB) – Official", "shopId": "s_001", "categoryId": "c_mobiles", "brand": "Samsung",
-    "images": ["ph://smartphone/220", "ph://smartphone/240", "ph://smartphone/200", "ph://camera/220"], "video": "https://example.com/videos/a56.mp4",
+    "images": ["/images/products/samsung-galaxy-a56-5g-1.svg", "/images/products/samsung-galaxy-a56-5g-2.svg", "/images/products/samsung-galaxy-a56-5g-3.svg"], "video": "https://example.com/videos/a56.mp4",
     "description": "Galaxy A56 5G with a 6.7\" Super AMOLED 120Hz display, Exynos 1580, 50MP OIS triple camera and 5000mAh battery with 45W charging. Official Samsung Bangladesh warranty.",
     "highlights": ["6.7\" FHD+ Super AMOLED, 120Hz", "50MP OIS main camera", "5000mAh, 45W fast charging", "IP67 water & dust resistant", "1 year official warranty"],
     "specs": [{ "label": "Display", "value": "6.7\" Super AMOLED, 120Hz" }, { "label": "Chipset", "value": "Exynos 1580" }, { "label": "RAM", "value": "8GB" }, { "label": "Storage", "value": "256GB" }, { "label": "Battery", "value": "5000mAh" }, { "label": "Warranty", "value": "1 year official" }],
@@ -15,7 +15,7 @@
   },
   {
     "id": "p_002", "slug": "xiaomi-redmi-note-15-pro", "name": "Xiaomi Redmi Note 15 Pro (8GB/256GB)", "shopId": "s_001", "categoryId": "c_mobiles", "brand": "Xiaomi",
-    "images": ["ph://smartphone/25", "ph://smartphone/35", "ph://camera/25"], "video": null,
+    "images": ["/images/products/xiaomi-redmi-note-15-pro-1.svg", "/images/products/xiaomi-redmi-note-15-pro-2.svg"], "video": null,
     "description": "Redmi Note 15 Pro with 200MP camera, 1.5K AMOLED display and 5500mAh battery.",
     "highlights": ["200MP main camera", "1.5K AMOLED 120Hz", "5500mAh battery", "67W turbo charging"],
     "specs": [{ "label": "Display", "value": "6.67\" 1.5K AMOLED" }, { "label": "RAM", "value": "8GB" }, { "label": "Storage", "value": "256GB" }, { "label": "Battery", "value": "5500mAh" }],
@@ -29,7 +29,7 @@
   },
   {
     "id": "p_003", "slug": "apple-macbook-air-m4-13", "name": "Apple MacBook Air 13\" M4 (16GB/512GB)", "shopId": "s_001", "categoryId": "c_laptops", "brand": "Apple",
-    "images": ["ph://laptop/210", "ph://laptop/230", "ph://laptop/190"], "video": null,
+    "images": ["/images/products/apple-macbook-air-m4-13-1.svg", "/images/products/apple-macbook-air-m4-13-2.svg", "/images/products/apple-macbook-air-m4-13-3.svg"], "video": null,
     "description": "The thinnest, lightest MacBook Air with the Apple M4 chip, 18-hour battery and Liquid Retina display.",
     "highlights": ["Apple M4 chip", "16GB unified memory", "512GB SSD", "Up to 18 hours battery"],
     "specs": [{ "label": "Chip", "value": "Apple M4 (10-core CPU)" }, { "label": "Memory", "value": "16GB" }, { "label": "Storage", "value": "512GB SSD" }, { "label": "Display", "value": "13.6\" Liquid Retina" }],
@@ -43,7 +43,7 @@
   },
   {
     "id": "p_004", "slug": "lenovo-ideapad-slim-5", "name": "Lenovo IdeaPad Slim 5 Ryzen 7 (16GB/512GB)", "shopId": "s_001", "categoryId": "c_laptops", "brand": "Lenovo",
-    "images": ["ph://laptop/0", "ph://laptop/10"], "video": null,
+    "images": ["/images/products/lenovo-ideapad-slim-5-1.svg", "/images/products/lenovo-ideapad-slim-5-2.svg"], "video": null,
     "description": "Everyday performance laptop with AMD Ryzen 7, 14\" 2.2K display and backlit keyboard.",
     "highlights": ["AMD Ryzen 7 8845HS", "14\" 2.2K IPS", "Backlit keyboard", "2 years warranty"],
     "specs": [{ "label": "Processor", "value": "Ryzen 7 8845HS" }, { "label": "RAM", "value": "16GB LPDDR5" }, { "label": "Storage", "value": "512GB SSD" }],
@@ -54,7 +54,7 @@
   },
   {
     "id": "p_005", "slug": "sony-wh-1000xm6", "name": "Sony WH-1000XM6 Wireless Noise Cancelling Headphones", "shopId": "s_001", "categoryId": "c_audio", "brand": "Sony",
-    "images": ["ph://headphones/260", "ph://headphones/280", "ph://headphones/240"], "video": null,
+    "images": ["/images/products/sony-wh-1000xm6-1.svg", "/images/products/sony-wh-1000xm6-2.svg", "/images/products/sony-wh-1000xm6-3.svg"], "video": null,
     "description": "Industry-leading noise cancellation, 30-hour battery and crystal-clear calls.",
     "highlights": ["Adaptive noise cancelling", "30h battery", "Multipoint Bluetooth", "Speak-to-chat"],
     "specs": [{ "label": "Battery", "value": "30 hours" }, { "label": "Connectivity", "value": "Bluetooth 5.3, LDAC" }, { "label": "Weight", "value": "250g" }],
@@ -68,7 +68,7 @@
   },
   {
     "id": "p_006", "slug": "qcy-t13-anc-earbuds", "name": "QCY T13 ANC True Wireless Earbuds", "shopId": "s_001", "categoryId": "c_audio", "brand": "QCY",
-    "images": ["ph://headphones/170", "ph://headphones/150"], "video": null,
+    "images": ["/images/products/qcy-t13-anc-earbuds-1.svg", "/images/products/qcy-t13-anc-earbuds-2.svg"], "video": null,
     "description": "Budget ANC earbuds with 30 hours total playtime and low-latency gaming mode.",
     "highlights": ["Active noise cancellation", "30h total playtime", "Gaming mode", "IPX5"],
     "specs": [{ "label": "Bluetooth", "value": "5.3" }, { "label": "Playtime", "value": "30 hours with case" }],
@@ -82,7 +82,7 @@
   },
   {
     "id": "p_007", "slug": "amazfit-gts-5", "name": "Amazfit GTS 5 Smart Watch AMOLED", "shopId": "s_001", "categoryId": "c_watches", "brand": "Amazfit",
-    "images": ["ph://watch/190", "ph://watch/170"], "video": null,
+    "images": ["/images/products/amazfit-gts-5-1.svg", "/images/products/amazfit-gts-5-2.svg"], "video": null,
     "description": "Slim AMOLED smartwatch with GPS, SpO2, 150+ sports modes and 12-day battery.",
     "highlights": ["1.75\" AMOLED", "Built-in GPS", "12-day battery", "Bluetooth calling"],
     "specs": [{ "label": "Display", "value": "1.75\" AMOLED" }, { "label": "Battery", "value": "Up to 12 days" }],
@@ -93,7 +93,7 @@
   },
   {
     "id": "p_008", "slug": "anker-powercore-20000", "name": "Anker PowerCore 20000mAh 30W Power Bank", "shopId": "s_001", "categoryId": "c_elec", "brand": "Anker",
-    "images": ["ph://battery-charging/120", "ph://battery-charging/140"], "video": null,
+    "images": ["/images/products/anker-powercore-20000-1.svg", "/images/products/anker-powercore-20000-2.svg"], "video": null,
     "description": "High-capacity power bank with 30W USB-C PD, charges a phone up to 4 times.",
     "highlights": ["20000mAh", "30W USB-C PD", "Charge 2 devices"],
     "specs": [{ "label": "Capacity", "value": "20000mAh" }, { "label": "Output", "value": "30W PD" }],
@@ -104,7 +104,7 @@
   },
   {
     "id": "p_009", "slug": "jamdani-saree-handloom-red", "name": "Handloom Dhakai Jamdani Saree – Red & Gold", "shopId": "s_002", "categoryId": "c_women", "brand": "Deshi Fashion House",
-    "images": ["ph://sparkles/350", "ph://sparkles/10", "ph://sparkles/330"], "video": "https://example.com/videos/jamdani.mp4",
+    "images": ["/images/products/jamdani-saree-handloom-red-1.svg", "/images/products/jamdani-saree-handloom-red-2.svg", "/images/products/jamdani-saree-handloom-red-3.svg"], "video": "https://example.com/videos/jamdani.mp4",
     "description": "Authentic handwoven Dhakai Jamdani from Rupganj artisans. 84 count cotton-silk blend with traditional motifs. 6 yards with blouse piece.",
     "highlights": ["Handwoven in Rupganj", "84 count cotton-silk", "6 yards + blouse piece", "GI-certified Jamdani"],
     "specs": [{ "label": "Fabric", "value": "Cotton-silk blend" }, { "label": "Length", "value": "6 yards" }, { "label": "Origin", "value": "Rupganj, Narayanganj" }],
@@ -115,7 +115,7 @@
   },
   {
     "id": "p_010", "slug": "cotton-panjabi-men-premium", "name": "Premium Cotton Panjabi for Men", "shopId": "s_002", "categoryId": "c_men", "brand": "Deshi Fashion House",
-    "images": ["ph://shirt/200", "ph://shirt/210", "ph://shirt/45"], "video": null,
+    "images": ["/images/products/cotton-panjabi-men-premium-1.svg", "/images/products/cotton-panjabi-men-premium-2.svg", "/images/products/cotton-panjabi-men-premium-3.svg"], "video": null,
     "description": "Soft, breathable cotton panjabi with fine embroidery on the placket. Perfect for Eid and Puja.",
     "highlights": ["100% cotton", "Hand embroidery", "Regular fit"],
     "specs": [{ "label": "Fabric", "value": "100% cotton" }, { "label": "Fit", "value": "Regular" }],
@@ -131,7 +131,7 @@
   },
   {
     "id": "p_011", "slug": "three-piece-lawn-printed", "name": "Printed Lawn Three-Piece (Unstitched)", "shopId": "s_002", "categoryId": "c_women", "brand": "Deshi Fashion House",
-    "images": ["ph://sparkles/300", "ph://sparkles/280"], "video": null,
+    "images": ["/images/products/three-piece-lawn-printed-1.svg", "/images/products/three-piece-lawn-printed-2.svg"], "video": null,
     "description": "Digital printed lawn three-piece with chiffon dupatta.",
     "highlights": ["Lawn cotton", "Chiffon dupatta", "Unstitched"],
     "specs": [{ "label": "Fabric", "value": "Lawn" }, { "label": "Pieces", "value": "3" }],
@@ -142,7 +142,7 @@
   },
   {
     "id": "p_012", "slug": "leather-loafer-men", "name": "Genuine Leather Loafer for Men", "shopId": "s_002", "categoryId": "c_shoes", "brand": "Deshi Fashion House",
-    "images": ["ph://footprints/25", "ph://footprints/15"], "video": null,
+    "images": ["/images/products/leather-loafer-men-1.svg", "/images/products/leather-loafer-men-2.svg"], "video": null,
     "description": "Hand-stitched cow leather loafers with cushioned insole.",
     "highlights": ["Genuine cow leather", "Hand-stitched", "Cushioned insole"],
     "specs": [{ "label": "Material", "value": "Cow leather" }],
@@ -157,7 +157,7 @@
   },
   {
     "id": "p_013", "slug": "cosrx-snail-mucin-essence", "name": "COSRX Advanced Snail 96 Mucin Power Essence 100ml", "shopId": "s_003", "categoryId": "c_skincare", "brand": "COSRX",
-    "images": ["ph://droplet/170", "ph://droplet/150", "ph://droplet/190"], "video": null,
+    "images": ["/images/products/cosrx-snail-mucin-essence-1.svg", "/images/products/cosrx-snail-mucin-essence-2.svg"], "video": null,
     "description": "Lightweight essence with 96% snail secretion filtrate to repair and hydrate skin. Imported from Korea with batch number and expiry printed.",
     "highlights": ["96% snail mucin", "Hydrates & repairs", "Imported from Korea", "Batch & expiry verified"],
     "specs": [{ "label": "Volume", "value": "100ml" }, { "label": "Origin", "value": "South Korea" }, { "label": "Skin type", "value": "All" }],
@@ -168,7 +168,7 @@
   },
   {
     "id": "p_014", "slug": "the-ordinary-niacinamide-10", "name": "The Ordinary Niacinamide 10% + Zinc 1% 30ml", "shopId": "s_003", "categoryId": "c_skincare", "brand": "The Ordinary",
-    "images": ["ph://droplet/40", "ph://droplet/55"], "video": null,
+    "images": ["/images/products/the-ordinary-niacinamide-10-1.svg", "/images/products/the-ordinary-niacinamide-10-2.svg"], "video": null,
     "description": "High-strength vitamin and mineral blemish formula.",
     "highlights": ["10% niacinamide", "Reduces blemishes", "UK imported"],
     "specs": [{ "label": "Volume", "value": "30ml" }, { "label": "Origin", "value": "Canada / UK" }],
@@ -179,7 +179,7 @@
   },
   {
     "id": "p_015", "slug": "maybelline-fit-me-foundation", "name": "Maybelline Fit Me Matte + Poreless Foundation", "shopId": "s_003", "categoryId": "c_makeup", "brand": "Maybelline",
-    "images": ["ph://palette/20", "ph://palette/30"], "video": null,
+    "images": ["/images/products/maybelline-fit-me-foundation-1.svg", "/images/products/maybelline-fit-me-foundation-2.svg"], "video": null,
     "description": "Lightweight matte foundation for normal to oily skin.",
     "highlights": ["Matte finish", "Poreless", "Multiple shades"],
     "specs": [{ "label": "Volume", "value": "30ml" }],
@@ -193,7 +193,7 @@
   },
   {
     "id": "p_016", "slug": "beauty-of-joseon-sunscreen", "name": "Beauty of Joseon Relief Sun SPF50+ 50ml", "shopId": "s_003", "categoryId": "c_skincare", "brand": "Beauty of Joseon",
-    "images": ["ph://sun/45", "ph://sun/55"], "video": null,
+    "images": ["/images/products/beauty-of-joseon-sunscreen-1.svg", "/images/products/beauty-of-joseon-sunscreen-2.svg"], "video": null,
     "description": "Lightweight organic sunscreen with rice and probiotics.",
     "highlights": ["SPF50+ PA++++", "No white cast", "Rice extract"],
     "specs": [{ "label": "Volume", "value": "50ml" }],
@@ -204,7 +204,7 @@
   },
   {
     "id": "p_017", "slug": "non-stick-fry-pan-28cm", "name": "Granite Non-Stick Fry Pan 28cm with Lid", "shopId": "s_004", "categoryId": "c_kitchen", "brand": "Kiam",
-    "images": ["ph://cooking-pot/15", "ph://cooking-pot/25"], "video": null,
+    "images": ["/images/products/non-stick-fry-pan-28cm-1.svg", "/images/products/non-stick-fry-pan-28cm-2.svg"], "video": null,
     "description": "PFOA-free granite coating, induction compatible, with tempered glass lid.",
     "highlights": ["Granite coating", "Induction compatible", "Glass lid"],
     "specs": [{ "label": "Size", "value": "28cm" }, { "label": "Material", "value": "Aluminium, granite coating" }],
@@ -215,7 +215,7 @@
   },
   {
     "id": "p_018", "slug": "miyako-rice-cooker-2-8l", "name": "Miyako Rice Cooker 2.8L", "shopId": "s_004", "categoryId": "c_kitchen", "brand": "Miyako",
-    "images": ["ph://cooking-pot/0", "ph://cooking-pot/350"], "video": null,
+    "images": ["/images/products/miyako-rice-cooker-2-8l-1.svg", "/images/products/miyako-rice-cooker-2-8l-2.svg"], "video": null,
     "description": "Double-pot rice cooker with steamer, keep-warm function.",
     "highlights": ["2.8L capacity", "Double pot", "Keep warm"],
     "specs": [{ "label": "Capacity", "value": "2.8L" }, { "label": "Power", "value": "900W" }],
@@ -226,7 +226,7 @@
   },
   {
     "id": "p_019", "slug": "nakshi-kantha-cushion-cover", "name": "Nakshi Kantha Cushion Cover (Set of 5)", "shopId": "s_004", "categoryId": "c_decor", "brand": "Ghorbari",
-    "images": ["ph://lamp/45", "ph://lamp/30"], "video": null,
+    "images": ["/images/products/nakshi-kantha-cushion-cover-1.svg", "/images/products/nakshi-kantha-cushion-cover-2.svg"], "video": null,
     "description": "Hand-stitched nakshi kantha cushion covers, 16x16 inch.",
     "highlights": ["Handmade", "Set of 5", "16x16 inch"],
     "specs": [{ "label": "Size", "value": "16x16 inch" }],
@@ -237,7 +237,7 @@
   },
   {
     "id": "p_020", "slug": "wooden-wall-shelf-set", "name": "Floating Wooden Wall Shelf (Set of 3)", "shopId": "s_004", "categoryId": "c_decor", "brand": "Ghorbari",
-    "images": ["ph://lamp/30"], "video": null,
+    "images": ["/images/products/wooden-wall-shelf-set-1.svg"], "video": null,
     "description": "Mango wood floating shelves.",
     "highlights": ["Mango wood", "Set of 3"],
     "specs": [{ "label": "Material", "value": "Mango wood" }],
@@ -249,7 +249,7 @@
   },
   {
     "id": "p_021", "slug": "chinigura-aromatic-rice-5kg", "name": "Chinigura Aromatic Rice 5kg", "shopId": "s_004", "categoryId": "c_grocery", "brand": "Pran",
-    "images": ["ph://shopping-basket/120", "ph://shopping-basket/100"], "video": null,
+    "images": ["/images/products/chinigura-aromatic-rice-5kg-1.svg", "/images/products/chinigura-aromatic-rice-5kg-2.svg"], "video": null,
     "description": "Premium aromatic chinigura rice, ideal for polao and biryani.",
     "highlights": ["Premium aromatic", "5kg pack"],
     "specs": [{ "label": "Weight", "value": "5kg" }],
@@ -260,7 +260,7 @@
   },
   {
     "id": "p_022", "slug": "yoga-mat-6mm", "name": "Anti-Slip Yoga Mat 6mm with Strap", "shopId": "s_004", "categoryId": "c_sports", "brand": "FitBD",
-    "images": ["ph://dumbbell/145", "ph://dumbbell/160"], "video": null,
+    "images": ["/images/products/yoga-mat-6mm-1.svg", "/images/products/yoga-mat-6mm-2.svg"], "video": null,
     "description": "TPE yoga mat, eco-friendly and anti-slip.",
     "highlights": ["6mm TPE", "Anti-slip", "Carry strap"],
     "specs": [{ "label": "Thickness", "value": "6mm" }],
@@ -274,7 +274,7 @@
   },
   {
     "id": "p_023", "slug": "lego-classic-creative-box", "name": "LEGO Classic Medium Creative Brick Box", "shopId": "s_001", "categoryId": "c_toys", "brand": "LEGO",
-    "images": ["ph://baby/50", "ph://baby/40"], "video": null,
+    "images": ["/images/products/lego-classic-creative-box-1.svg", "/images/products/lego-classic-creative-box-2.svg"], "video": null,
     "description": "484 pieces in 35 colors for open-ended creative play. Ages 4+.",
     "highlights": ["484 pieces", "Ages 4+", "Original LEGO"],
     "specs": [{ "label": "Pieces", "value": "484" }, { "label": "Age", "value": "4+" }],
@@ -285,7 +285,7 @@
   },
   {
     "id": "p_024", "slug": "humayun-ahmed-himu-collection", "name": "Himu Samagra – Humayun Ahmed (Hardcover)", "shopId": "s_002", "categoryId": "c_books", "brand": "Anyaprokash",
-    "images": ["ph://book-open/280", "ph://book-open/260"], "video": null,
+    "images": ["/images/products/humayun-ahmed-himu-collection-1.svg", "/images/products/humayun-ahmed-himu-collection-2.svg"], "video": null,
     "description": "Complete Himu series by Humayun Ahmed in one hardcover collection.",
     "highlights": ["Hardcover", "Complete series", "Bangla"],
     "specs": [{ "label": "Language", "value": "Bangla" }, { "label": "Pages", "value": "880" }],
@@ -296,7 +296,7 @@
   },
   {
     "id": "p_025", "slug": "oneplus-nord-5", "name": "OnePlus Nord 5 (12GB/256GB)", "shopId": "s_001", "categoryId": "c_mobiles", "brand": "OnePlus",
-    "images": ["ph://smartphone/100", "ph://smartphone/80"], "video": null,
+    "images": ["/images/products/oneplus-nord-5-1.svg", "/images/products/oneplus-nord-5-2.svg"], "video": null,
     "description": "Flagship-grade performance with Snapdragon 8s Gen 3 and 100W SUPERVOOC.",
     "highlights": ["Snapdragon 8s Gen 3", "100W charging", "1.5K AMOLED"],
     "specs": [{ "label": "RAM", "value": "12GB" }, { "label": "Storage", "value": "256GB" }],

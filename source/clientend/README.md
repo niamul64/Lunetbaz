@@ -38,7 +38,9 @@ Open **/login**. In mock mode it lists every demo account grouped by portal; cli
 
 In the browser, mutations made in mock mode are saved to `localStorage`. Use **user menu → Reset demo data** in either portal to restore the seed.
 
-Scripts: `pnpm dev`, `pnpm build`, `pnpm start`, `pnpm lint`, `pnpm typecheck`.
+Scripts: `pnpm dev`, `pnpm build`, `pnpm start`, `pnpm lint`, `pnpm typecheck`, `pnpm images:generate`.
+
+**Product images:** the dummy catalog uses generated SVG illustrations in `public/images/products/` (2–3 per product: main shot, second color or angle, close-up). `pnpm images:generate` redraws them from `scripts/generate-product-images.mjs` and updates the image paths in `dummy_data/`, changing only those lines. Real photos uploaded through the API replace them automatically.
 
 ## Tech stack
 

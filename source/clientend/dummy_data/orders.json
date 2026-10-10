@@ -7,7 +7,7 @@
     "packages": [
       {
         "id": "pk_1001_1", "shopId": "s_001", "status": "delivered", "courier": "Pathao", "trackingNo": "PTH-88213421", "shippingFee": 0,
-        "items": [{ "productId": "p_001", "variantId": "p_001_v1", "name": "Samsung Galaxy A56 5G (8GB/256GB) – Official", "image": "ph://smartphone/220", "attributes": { "Color": "Awesome Graphite" }, "unitPrice": 49999, "qty": 1 }],
+        "items": [{ "productId": "p_001", "variantId": "p_001_v1", "name": "Samsung Galaxy A56 5G (8GB/256GB) – Official", "image": "/images/products/samsung-galaxy-a56-5g-1.svg", "attributes": { "Color": "Awesome Graphite" }, "unitPrice": 49999, "qty": 1 }],
         "timeline": [
           { "status": "pending", "at": "2026-09-30T14:20:00.000Z", "note": "Order placed" },
           { "status": "confirmed", "at": "2026-09-30T14:22:00.000Z", "note": "Payment received via bKash" },
@@ -18,7 +18,7 @@
       },
       {
         "id": "pk_1001_2", "shopId": "s_003", "status": "delivered", "courier": "RedX", "trackingNo": "RDX-3321009", "shippingFee": 60,
-        "items": [{ "productId": "p_013", "variantId": "p_013_v1", "name": "COSRX Advanced Snail 96 Mucin Power Essence 100ml", "image": "ph://droplet/170", "attributes": { "Size": "100ml" }, "unitPrice": 1650, "qty": 1 }],
+        "items": [{ "productId": "p_013", "variantId": "p_013_v1", "name": "COSRX Advanced Snail 96 Mucin Power Essence 100ml", "image": "/images/products/cosrx-snail-mucin-essence-1.svg", "attributes": { "Size": "100ml" }, "unitPrice": 1650, "qty": 1 }],
         "timeline": [
           { "status": "pending", "at": "2026-09-30T14:20:00.000Z", "note": "Order placed" },
           { "status": "confirmed", "at": "2026-09-30T14:22:00.000Z", "note": null },
@@ -38,8 +38,8 @@
       {
         "id": "pk_1002_1", "shopId": "s_002", "status": "shipped", "courier": "Steadfast", "trackingNo": "SF-5590213", "shippingFee": 60,
         "items": [
-          { "productId": "p_009", "variantId": "p_009_v1", "name": "Handloom Dhakai Jamdani Saree – Red & Gold", "image": "ph://sparkles/350", "attributes": { "Color": "Red & Gold" }, "unitPrice": 14900, "qty": 1 },
-          { "productId": "p_010", "variantId": "p_010_v1", "name": "Premium Cotton Panjabi for Men", "image": "ph://shirt/200", "attributes": { "Color": "Off-white", "Size": "M" }, "unitPrice": 1590, "qty": 1 }
+          { "productId": "p_009", "variantId": "p_009_v1", "name": "Handloom Dhakai Jamdani Saree – Red & Gold", "image": "/images/products/jamdani-saree-handloom-red-1.svg", "attributes": { "Color": "Red & Gold" }, "unitPrice": 14900, "qty": 1 },
+          { "productId": "p_010", "variantId": "p_010_v1", "name": "Premium Cotton Panjabi for Men", "image": "/images/products/cotton-panjabi-men-premium-1.svg", "attributes": { "Color": "Off-white", "Size": "M" }, "unitPrice": 1590, "qty": 1 }
         ],
         "timeline": [
           { "status": "pending", "at": "2026-10-06T10:05:00.000Z", "note": "Order placed (Cash on Delivery)" },
@@ -59,8 +59,8 @@
       {
         "id": "pk_1003_1", "shopId": "s_001", "status": "packed", "courier": null, "trackingNo": null, "shippingFee": 0,
         "items": [
-          { "productId": "p_005", "variantId": "p_005_v1", "name": "Sony WH-1000XM6 Wireless Noise Cancelling Headphones", "image": "ph://headphones/260", "attributes": { "Color": "Black" }, "unitPrice": 41999, "qty": 1 },
-          { "productId": "p_006", "variantId": "p_006_v1", "name": "QCY T13 ANC True Wireless Earbuds", "image": "ph://headphones/170", "attributes": { "Color": "Black" }, "unitPrice": 1199, "qty": 1 }
+          { "productId": "p_005", "variantId": "p_005_v1", "name": "Sony WH-1000XM6 Wireless Noise Cancelling Headphones", "image": "/images/products/sony-wh-1000xm6-1.svg", "attributes": { "Color": "Black" }, "unitPrice": 41999, "qty": 1 },
+          { "productId": "p_006", "variantId": "p_006_v1", "name": "QCY T13 ANC True Wireless Earbuds", "image": "/images/products/qcy-t13-anc-earbuds-1.svg", "attributes": { "Color": "Black" }, "unitPrice": 1199, "qty": 1 }
         ],
         "timeline": [
           { "status": "pending", "at": "2026-10-08T21:45:00.000Z", "note": "Order placed" },
@@ -79,15 +79,15 @@
       {
         "id": "pk_1004_1", "shopId": "s_004", "status": "pending", "courier": null, "trackingNo": null, "shippingFee": 120,
         "items": [
-          { "productId": "p_017", "variantId": "p_017_v1", "name": "Granite Non-Stick Fry Pan 28cm with Lid", "image": "ph://cooking-pot/15", "attributes": { "Size": "28cm" }, "unitPrice": 1290, "qty": 1 },
-          { "productId": "p_021", "variantId": "p_021_v1", "name": "Chinigura Aromatic Rice 5kg", "image": "ph://shopping-basket/120", "attributes": { "Weight": "5kg" }, "unitPrice": 790, "qty": 2 }
+          { "productId": "p_017", "variantId": "p_017_v1", "name": "Granite Non-Stick Fry Pan 28cm with Lid", "image": "/images/products/non-stick-fry-pan-28cm-1.svg", "attributes": { "Size": "28cm" }, "unitPrice": 1290, "qty": 1 },
+          { "productId": "p_021", "variantId": "p_021_v1", "name": "Chinigura Aromatic Rice 5kg", "image": "/images/products/chinigura-aromatic-rice-5kg-1.svg", "attributes": { "Weight": "5kg" }, "unitPrice": 790, "qty": 2 }
         ],
         "timeline": [{ "status": "pending", "at": "2026-10-09T08:10:00.000Z", "note": "Order placed (Cash on Delivery)" }]
       },
       {
         "id": "pk_1004_2", "shopId": "s_002", "status": "pending", "courier": null, "trackingNo": null, "shippingFee": 120,
-        "items": [{ "productId": "p_024", "variantId": "p_024_v1", "name": "Himu Samagra – Humayun Ahmed (Hardcover)", "image": "ph://book-open/280", "attributes": { "Format": "Hardcover" }, "unitPrice": 1125, "qty": 1 },
-                  { "productId": "p_022", "variantId": "p_022_v1", "name": "Anti-Slip Yoga Mat 6mm with Strap", "image": "ph://dumbbell/145", "attributes": { "Color": "Purple" }, "unitPrice": 925, "qty": 1 }],
+        "items": [{ "productId": "p_024", "variantId": "p_024_v1", "name": "Himu Samagra – Humayun Ahmed (Hardcover)", "image": "/images/products/humayun-ahmed-himu-collection-1.svg", "attributes": { "Format": "Hardcover" }, "unitPrice": 1125, "qty": 1 },
+                  { "productId": "p_022", "variantId": "p_022_v1", "name": "Anti-Slip Yoga Mat 6mm with Strap", "image": "/images/products/yoga-mat-6mm-1.svg", "attributes": { "Color": "Purple" }, "unitPrice": 925, "qty": 1 }],
         "timeline": [{ "status": "pending", "at": "2026-10-09T08:10:00.000Z", "note": "Order placed (Cash on Delivery)" }]
       }
     ]
@@ -100,7 +100,7 @@
     "packages": [
       {
         "id": "pk_1005_1", "shopId": "s_001", "status": "cancelled", "courier": null, "trackingNo": null, "shippingFee": 120,
-        "items": [{ "productId": "p_008", "variantId": "p_008_v1", "name": "Anker PowerCore 20000mAh 30W Power Bank", "image": "ph://battery-charging/120", "attributes": { "Color": "Black" }, "unitPrice": 4290, "qty": 1 }],
+        "items": [{ "productId": "p_008", "variantId": "p_008_v1", "name": "Anker PowerCore 20000mAh 30W Power Bank", "image": "/images/products/anker-powercore-20000-1.svg", "attributes": { "Color": "Black" }, "unitPrice": 4290, "qty": 1 }],
         "timeline": [
           { "status": "pending", "at": "2026-10-02T19:00:00.000Z", "note": "Order placed" },
           { "status": "confirmed", "at": "2026-10-02T19:01:00.000Z", "note": "Paid via Nagad" },
@@ -117,7 +117,7 @@
     "packages": [
       {
         "id": "pk_1006_1", "shopId": "s_003", "status": "returned", "courier": "RedX", "trackingNo": "RDX-3300112", "shippingFee": 60,
-        "items": [{ "productId": "p_014", "variantId": "p_014_v1", "name": "The Ordinary Niacinamide 10% + Zinc 1% 30ml", "image": "ph://droplet/40", "attributes": { "Size": "30ml" }, "unitPrice": 1290, "qty": 1 }],
+        "items": [{ "productId": "p_014", "variantId": "p_014_v1", "name": "The Ordinary Niacinamide 10% + Zinc 1% 30ml", "image": "/images/products/the-ordinary-niacinamide-10-1.svg", "attributes": { "Size": "30ml" }, "unitPrice": 1290, "qty": 1 }],
         "timeline": [
           { "status": "pending", "at": "2026-09-25T12:00:00.000Z", "note": "Order placed" },
           { "status": "confirmed", "at": "2026-09-25T12:01:00.000Z", "note": null },
@@ -136,7 +136,7 @@
     "packages": [
       {
         "id": "pk_1007_1", "shopId": "s_001", "status": "confirmed", "courier": null, "trackingNo": null, "shippingFee": 0,
-        "items": [{ "productId": "p_007", "variantId": "p_007_v1", "name": "Amazfit GTS 5 Smart Watch AMOLED", "image": "ph://watch/190", "attributes": { "Color": "Black" }, "unitPrice": 13499, "qty": 1 }],
+        "items": [{ "productId": "p_007", "variantId": "p_007_v1", "name": "Amazfit GTS 5 Smart Watch AMOLED", "image": "/images/products/amazfit-gts-5-1.svg", "attributes": { "Color": "Black" }, "unitPrice": 13499, "qty": 1 }],
         "timeline": [
           { "status": "pending", "at": "2026-10-07T09:30:00.000Z", "note": "Order placed" },
           { "status": "confirmed", "at": "2026-10-07T09:31:00.000Z", "note": "Paid via bKash" }
@@ -153,8 +153,8 @@
       {
         "id": "pk_1008_1", "shopId": "s_004", "status": "ready_to_ship", "courier": "Pathao", "trackingNo": "PTH-88290011", "shippingFee": 60,
         "items": [
-          { "productId": "p_018", "variantId": "p_018_v1", "name": "Miyako Rice Cooker 2.8L", "image": "ph://cooking-pot/0", "attributes": { "Color": "White" }, "unitPrice": 3290, "qty": 1 },
-          { "productId": "p_019", "variantId": "p_019_v1", "name": "Nakshi Kantha Cushion Cover (Set of 5)", "image": "ph://lamp/45", "attributes": { "Color": "Multicolor" }, "unitPrice": 1750, "qty": 1 }
+          { "productId": "p_018", "variantId": "p_018_v1", "name": "Miyako Rice Cooker 2.8L", "image": "/images/products/miyako-rice-cooker-2-8l-1.svg", "attributes": { "Color": "White" }, "unitPrice": 3290, "qty": 1 },
+          { "productId": "p_019", "variantId": "p_019_v1", "name": "Nakshi Kantha Cushion Cover (Set of 5)", "image": "/images/products/nakshi-kantha-cushion-cover-1.svg", "attributes": { "Color": "Multicolor" }, "unitPrice": 1750, "qty": 1 }
         ],
         "timeline": [
           { "status": "pending", "at": "2026-10-05T17:15:00.000Z", "note": "Order placed (Cash on Delivery)" },

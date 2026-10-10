@@ -3,63 +3,63 @@
     {
       "id": "vr_001", "productId": "p_001", "shopId": "s_001", "status": "approved", "submittedBy": "u_101", "submittedAt": "2026-06-01T09:00:00.000Z", "inspectionMethod": "hub",
       "documents": [{ "type": "brand_authorization", "name": "Samsung BD distributor letter.pdf" }, { "type": "purchase_invoice", "name": "Invoice-SBD-55231.pdf" }],
-      "inspection": { "officerId": "u_005", "inspectedAt": "2026-06-10T11:00:00.000Z", "result": "pass", "notes": "IMEI matches Samsung BD registry. Box, accessories and phone match listing photos exactly.", "checklist": { "genuine": true, "matchesPhotos": true, "matchesDescription": true, "packagingIntact": true, "documentsValid": true }, "evidence": ["ph://camera/220", "ph://smartphone/220"] },
+      "inspection": { "officerId": "u_005", "inspectedAt": "2026-06-10T11:00:00.000Z", "result": "pass", "notes": "IMEI matches Samsung BD registry. Box, accessories and phone match listing photos exactly.", "checklist": { "genuine": true, "matchesPhotos": true, "matchesDescription": true, "packagingIntact": true, "documentsValid": true }, "evidence": ["/images/products/samsung-galaxy-a56-5g-1.svg"] },
       "approval": { "officerId": "u_006", "approvedAt": "2026-06-14T10:00:00.000Z", "notes": "Second review OK." },
       "rejectionReason": null
     },
     {
       "id": "vr_002", "productId": "p_003", "shopId": "s_001", "status": "approved", "submittedBy": "u_101", "submittedAt": "2026-06-20T09:00:00.000Z", "inspectionMethod": "onsite",
       "documents": [{ "type": "purchase_invoice", "name": "Apple-Executive-Invoice.pdf" }],
-      "inspection": { "officerId": "u_006", "inspectedAt": "2026-06-28T11:00:00.000Z", "result": "pass", "notes": "Serial verified on Apple coverage check.", "checklist": { "genuine": true, "matchesPhotos": true, "matchesDescription": true, "packagingIntact": true, "documentsValid": true }, "evidence": ["ph://laptop/210"] },
+      "inspection": { "officerId": "u_006", "inspectedAt": "2026-06-28T11:00:00.000Z", "result": "pass", "notes": "Serial verified on Apple coverage check.", "checklist": { "genuine": true, "matchesPhotos": true, "matchesDescription": true, "packagingIntact": true, "documentsValid": true }, "evidence": ["/images/products/apple-macbook-air-m4-13-1.svg"] },
       "approval": { "officerId": "u_005", "approvedAt": "2026-07-02T10:00:00.000Z", "notes": null },
       "rejectionReason": null
     },
     {
       "id": "vr_003", "productId": "p_005", "shopId": "s_001", "status": "approved", "submittedBy": "u_102", "submittedAt": "2026-05-10T09:00:00.000Z", "inspectionMethod": "hub",
       "documents": [{ "type": "purchase_invoice", "name": "Sony-Rangs-Invoice.pdf" }],
-      "inspection": { "officerId": "u_005", "inspectedAt": "2026-05-18T11:00:00.000Z", "result": "pass", "notes": "Hologram and serial verified.", "checklist": { "genuine": true, "matchesPhotos": true, "matchesDescription": true, "packagingIntact": true, "documentsValid": true }, "evidence": ["ph://headphones/260"] },
+      "inspection": { "officerId": "u_005", "inspectedAt": "2026-05-18T11:00:00.000Z", "result": "pass", "notes": "Hologram and serial verified.", "checklist": { "genuine": true, "matchesPhotos": true, "matchesDescription": true, "packagingIntact": true, "documentsValid": true }, "evidence": ["/images/products/sony-wh-1000xm6-1.svg"] },
       "approval": { "officerId": "u_006", "approvedAt": "2026-05-22T10:00:00.000Z", "notes": null },
       "rejectionReason": null
     },
     {
       "id": "vr_004", "productId": "p_009", "shopId": "s_002", "status": "approved", "submittedBy": "u_104", "submittedAt": "2026-07-25T09:00:00.000Z", "inspectionMethod": "onsite",
       "documents": [{ "type": "gi_certificate", "name": "Jamdani-GI-Cert.pdf" }],
-      "inspection": { "officerId": "u_006", "inspectedAt": "2026-08-01T11:00:00.000Z", "result": "pass", "notes": "Visited weaver in Rupganj. Handloom confirmed; colors match photos.", "checklist": { "genuine": true, "matchesPhotos": true, "matchesDescription": true, "packagingIntact": true, "documentsValid": true }, "evidence": ["ph://sparkles/350"] },
+      "inspection": { "officerId": "u_006", "inspectedAt": "2026-08-01T11:00:00.000Z", "result": "pass", "notes": "Visited weaver in Rupganj. Handloom confirmed; colors match photos.", "checklist": { "genuine": true, "matchesPhotos": true, "matchesDescription": true, "packagingIntact": true, "documentsValid": true }, "evidence": ["/images/products/jamdani-saree-handloom-red-1.svg"] },
       "approval": { "officerId": "u_005", "approvedAt": "2026-08-05T10:00:00.000Z", "notes": null },
       "rejectionReason": null
     },
     {
       "id": "vr_005", "productId": "p_013", "shopId": "s_003", "status": "approved", "submittedBy": "u_105", "submittedAt": "2026-06-15T09:00:00.000Z", "inspectionMethod": "hub",
       "documents": [{ "type": "import_document", "name": "LC-Import-COSRX.pdf" }, { "type": "purchase_invoice", "name": "COSRX-Invoice.pdf" }],
-      "inspection": { "officerId": "u_005", "inspectedAt": "2026-06-25T11:00:00.000Z", "result": "pass", "notes": "Batch code verified with brand. Expiry 2028-03.", "checklist": { "genuine": true, "matchesPhotos": true, "matchesDescription": true, "packagingIntact": true, "documentsValid": true }, "evidence": ["ph://droplet/170"] },
+      "inspection": { "officerId": "u_005", "inspectedAt": "2026-06-25T11:00:00.000Z", "result": "pass", "notes": "Batch code verified with brand. Expiry 2028-03.", "checklist": { "genuine": true, "matchesPhotos": true, "matchesDescription": true, "packagingIntact": true, "documentsValid": true }, "evidence": ["/images/products/cosrx-snail-mucin-essence-1.svg"] },
       "approval": { "officerId": "u_006", "approvedAt": "2026-06-30T10:00:00.000Z", "notes": null },
       "rejectionReason": null
     },
     {
       "id": "vr_006", "productId": "p_014", "shopId": "s_003", "status": "approved", "submittedBy": "u_105", "submittedAt": "2026-04-28T09:00:00.000Z", "inspectionMethod": "hub",
       "documents": [{ "type": "purchase_invoice", "name": "Ordinary-Invoice.pdf" }],
-      "inspection": { "officerId": "u_006", "inspectedAt": "2026-05-06T11:00:00.000Z", "result": "pass", "notes": "Sample genuine.", "checklist": { "genuine": true, "matchesPhotos": true, "matchesDescription": true, "packagingIntact": true, "documentsValid": true }, "evidence": ["ph://droplet/40"] },
+      "inspection": { "officerId": "u_006", "inspectedAt": "2026-05-06T11:00:00.000Z", "result": "pass", "notes": "Sample genuine.", "checklist": { "genuine": true, "matchesPhotos": true, "matchesDescription": true, "packagingIntact": true, "documentsValid": true }, "evidence": ["/images/products/the-ordinary-niacinamide-10-1.svg"] },
       "approval": { "officerId": "u_005", "approvedAt": "2026-05-10T10:00:00.000Z", "notes": null },
       "rejectionReason": null
     },
     {
       "id": "vr_007", "productId": "p_018", "shopId": "s_004", "status": "approved", "submittedBy": "u_106", "submittedAt": "2026-08-10T09:00:00.000Z", "inspectionMethod": "onsite",
       "documents": [{ "type": "brand_authorization", "name": "Miyako-Dealer-Cert.pdf" }],
-      "inspection": { "officerId": "u_005", "inspectedAt": "2026-08-16T11:00:00.000Z", "result": "pass", "notes": "Dealer certificate valid.", "checklist": { "genuine": true, "matchesPhotos": true, "matchesDescription": true, "packagingIntact": true, "documentsValid": true }, "evidence": ["ph://cooking-pot/0"] },
+      "inspection": { "officerId": "u_005", "inspectedAt": "2026-08-16T11:00:00.000Z", "result": "pass", "notes": "Dealer certificate valid.", "checklist": { "genuine": true, "matchesPhotos": true, "matchesDescription": true, "packagingIntact": true, "documentsValid": true }, "evidence": ["/images/products/miyako-rice-cooker-2-8l-1.svg"] },
       "approval": { "officerId": "u_006", "approvedAt": "2026-08-20T10:00:00.000Z", "notes": null },
       "rejectionReason": null
     },
     {
       "id": "vr_008", "productId": "p_023", "shopId": "s_001", "status": "approved", "submittedBy": "u_101", "submittedAt": "2026-08-22T09:00:00.000Z", "inspectionMethod": "hub",
       "documents": [{ "type": "purchase_invoice", "name": "LEGO-Import.pdf" }],
-      "inspection": { "officerId": "u_006", "inspectedAt": "2026-08-28T11:00:00.000Z", "result": "pass", "notes": "Original LEGO, sealed box.", "checklist": { "genuine": true, "matchesPhotos": true, "matchesDescription": true, "packagingIntact": true, "documentsValid": true }, "evidence": ["ph://baby/50"] },
+      "inspection": { "officerId": "u_006", "inspectedAt": "2026-08-28T11:00:00.000Z", "result": "pass", "notes": "Original LEGO, sealed box.", "checklist": { "genuine": true, "matchesPhotos": true, "matchesDescription": true, "packagingIntact": true, "documentsValid": true }, "evidence": ["/images/products/lego-classic-creative-box-1.svg"] },
       "approval": { "officerId": "u_005", "approvedAt": "2026-09-01T10:00:00.000Z", "notes": null },
       "rejectionReason": null
     },
     {
       "id": "vr_009", "productId": "p_002", "shopId": "s_001", "status": "awaiting_approval", "submittedBy": "u_102", "submittedAt": "2026-09-25T09:00:00.000Z", "inspectionMethod": "hub",
       "documents": [{ "type": "brand_authorization", "name": "Xiaomi-BD-Authorized.pdf" }, { "type": "purchase_invoice", "name": "Invoice-XBD-9921.pdf" }],
-      "inspection": { "officerId": "u_005", "inspectedAt": "2026-10-03T11:00:00.000Z", "result": "pass", "notes": "IMEI registered with BTRC. Matches listing.", "checklist": { "genuine": true, "matchesPhotos": true, "matchesDescription": true, "packagingIntact": true, "documentsValid": true }, "evidence": ["ph://smartphone/25"] },
+      "inspection": { "officerId": "u_005", "inspectedAt": "2026-10-03T11:00:00.000Z", "result": "pass", "notes": "IMEI registered with BTRC. Matches listing.", "checklist": { "genuine": true, "matchesPhotos": true, "matchesDescription": true, "packagingIntact": true, "documentsValid": true }, "evidence": ["/images/products/xiaomi-redmi-note-15-pro-1.svg"] },
       "approval": null,
       "rejectionReason": null
     },
@@ -71,7 +71,7 @@
     {
       "id": "vr_011", "productId": "p_015", "shopId": "s_003", "status": "rejected", "submittedBy": "u_105", "submittedAt": "2026-08-01T09:00:00.000Z", "inspectionMethod": "hub",
       "documents": [{ "type": "purchase_invoice", "name": "Maybelline-Local-Invoice.pdf" }],
-      "inspection": { "officerId": "u_006", "inspectedAt": "2026-08-09T11:00:00.000Z", "result": "fail", "notes": "Shade 220 sample packaging differs from listing photos; supplier invoice could not be validated.", "checklist": { "genuine": false, "matchesPhotos": false, "matchesDescription": true, "packagingIntact": true, "documentsValid": false }, "evidence": ["ph://palette/20"] },
+      "inspection": { "officerId": "u_006", "inspectedAt": "2026-08-09T11:00:00.000Z", "result": "fail", "notes": "Shade 220 sample packaging differs from listing photos; supplier invoice could not be validated.", "checklist": { "genuine": false, "matchesPhotos": false, "matchesDescription": true, "packagingIntact": true, "documentsValid": false }, "evidence": ["/images/products/maybelline-fit-me-foundation-1.svg"] },
       "approval": null,
       "rejectionReason": "Supplier invoice could not be validated and packaging does not match listing photos."
     }
@@ -91,7 +91,7 @@
     {
       "id": "cr_001", "productId": "p_001", "shopId": "s_001", "status": "pending", "submittedBy": "u_101", "submittedAt": "2026-10-05T09:00:00.000Z",
       "fields": ["images"], "reason": "Samsung updated the retail box design; we want to show the new packaging.",
-      "proposed": { "images": ["ph://smartphone/220", "ph://smartphone/240", "ph://package/220"] }
+      "proposed": { "images": ["/images/products/samsung-galaxy-a56-5g-1.svg", "/images/products/samsung-galaxy-a56-5g-1.svg", "/images/products/samsung-galaxy-a56-5g-1.svg"] }
     },
     {
       "id": "cr_002", "productId": "p_013", "shopId": "s_003", "status": "rejected", "submittedBy": "u_105", "submittedAt": "2026-09-01T09:00:00.000Z",

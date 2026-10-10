@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="38%" r="75%">
+      <stop offset="0" stop-color="oklch(0.995 0.008 300)"/>
+      <stop offset="0.6" stop-color="oklch(0.955 0.035 300)"/>
+      <stop offset="1" stop-color="oklch(0.9 0.05500000000000001 300)"/>
+    </radialGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="14"/></filter>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#000" flood-opacity="0.18"/></filter>
+    <linearGradient id="gloss" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.45"/><stop offset="0.45" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <g transform="translate(-54 -65.79999999999995) scale(1.18)">
+    <ellipse cx="300" cy="505" rx="170" ry="22" fill="#000" opacity="0.18" filter="url(#blur)"/>
+    <defs><linearGradient id="mat" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="oklch(0.62 0.14 300)"/><stop offset="1" stop-color="oklch(0.42 0.14 300)"/></linearGradient></defs>
+  <g filter="url(#soft)" transform="rotate(-10 300 300)">
+    <rect x="140" y="240" width="300" height="140" fill="url(#mat)"/>
+    <ellipse cx="140" cy="310" rx="38" ry="70" fill="oklch(0.5 0.14 300)"/>
+    <ellipse cx="440" cy="310" rx="38" ry="70" fill="oklch(0.58 0.14 300)"/>
+    <path d="M440 260 q-24 50 0 100 q20 -50 0 -100" fill="none" stroke="oklch(0.4 0.14 300)" stroke-width="4"/>
+    <path d="M440 275 q-14 35 0 70" fill="none" stroke="oklch(0.4 0.14 300)" stroke-width="4"/>
+    <rect x="230" y="236" width="18" height="148" fill="#2b2d33"/>
+    <rect x="340" y="236" width="18" height="148" fill="#2b2d33"/>
+    <path d="M239 236 Q295 150 349 236" fill="none" stroke="#2b2d33" stroke-width="10"/>
+    <rect x="140" y="250" width="300" height="20" fill="#fff" opacity="0.15"/>
+  </g>
+  </g>
+</svg>

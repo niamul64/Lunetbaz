@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "typecheck": "next typegen && tsc --noEmit"
+    "typecheck": "next typegen && tsc --noEmit",
+    "images:generate": "node scripts/generate-product-images.mjs"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.9.1",

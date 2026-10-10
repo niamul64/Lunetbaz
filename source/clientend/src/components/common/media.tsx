@@ -105,7 +105,8 @@ export function Media({ src, alt, className, sizes = "(max-width: 768px) 50vw, 2
   }
   return (
     <div className={cn("relative overflow-hidden bg-muted", className)}>
-      <Image src={src} alt={alt} fill sizes={sizes} priority={priority} className="object-cover" />
+      {/* SVGs are already resolution-independent; the optimizer only handles raster formats. */}
+      <Image src={src} alt={alt} fill sizes={sizes} priority={priority} unoptimized={src.endsWith(".svg")} className="object-cover" />
     </div>
   );
 }

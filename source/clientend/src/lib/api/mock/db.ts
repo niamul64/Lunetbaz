@@ -47,7 +47,7 @@ import type {
 } from "@/types";
 
 /** Bump when the dummy data changes shape so stale browser copies are discarded. */
-const SEED_VERSION = 1;
+const SEED_VERSION = 2;
 const STORAGE_KEY = `lunetbuz.mockdb.v${SEED_VERSION}`;
 
 export interface MockUser extends User {

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="38%" r="75%">
+      <stop offset="0" stop-color="oklch(0.995 0.008 170)"/>
+      <stop offset="0.6" stop-color="oklch(0.955 0.035 170)"/>
+      <stop offset="1" stop-color="oklch(0.9 0.05500000000000001 170)"/>
+    </radialGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="14"/></filter>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#000" flood-opacity="0.18"/></filter>
+    <linearGradient id="gloss" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.45"/><stop offset="0.45" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <g transform="translate(-66 -66) scale(1.22)">
+    <ellipse cx="300" cy="505" rx="170" ry="22" fill="#000" opacity="0.18" filter="url(#blur)"/>
+    <defs><linearGradient id="gl" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f3efe6"/><stop offset="1" stop-color="#d9d2c3"/></linearGradient><linearGradient id="lq" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#efe6d0"/><stop offset="1" stop-color="#d6c49a"/></linearGradient></defs>
+  <g filter="url(#soft)">
+    <rect x="262" y="125" width="76" height="80" rx="12" fill="#f4f4f4"/>
+    <rect x="215" y="200" width="170" height="290" rx="30" fill="url(#gl)"/>
+    <rect x="223" y="260" width="154" height="222" rx="24" fill="url(#lq)" opacity="0.85"/>
+    <rect x="233" y="290" width="134" height="130" rx="10" fill="#ffffff"/>
+    <text x="300" y="345" font-family="Inter,Segoe UI,Arial" font-size="19" font-weight="800" fill="#222" text-anchor="middle">SNAIL 96</text>
+    <text x="300" y="372" font-family="Inter,Segoe UI,Arial" font-size="11" fill="#555" text-anchor="middle">Mucin Power Essence</text>
+    <rect x="229" y="210" width="16" height="260" rx="8" fill="#fff" opacity="0.35"/>
+  </g>
+  </g>
+</svg>
